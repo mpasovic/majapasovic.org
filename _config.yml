@@ -1,0 +1,87 @@
+# Where things are
+source: .
+destination: ./_site
+plugins: ./_plugins
+layouts: ./_layouts
+data_source: ./_data
+collections: null
+
+# Handling Reading
+safe: false
+include: [".htaccess","_pages"]
+exclude: []
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md,mdown,pandoc,pdc"
+
+# Filtering Content
+show_drafts: null
+limit_posts: 0
+future: true
+unpublished: false
+
+# Conversion
+#markdown: Pandoc
+#pandoc:
+#  format: html5
+#  extensions:
+#    - section-divs
+#    - table-of-contents
+#    - smart
+#    - normalize
+#    - template: '_layouts/toc.html'
+#    - csl: '/home/farasha/file/documents/proc/chicago-fullnote-bibliography.csl'
+#    - bibliography: '/home/farasha/file/documents/proc/biblio.bib'
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  use_coderay: false
+highlighter: null
+lsi: false
+excerpt_separator: "\n\n"
+
+# Serving
+detach:  false
+port:    4000
+host:    0.0.0.0
+baseurl: "" # does not include hostname
+
+# Backwards-compatibility
+relative_permalinks: false
+
+# Outputting
+permalink: "/:title/"
+timezone: Europe/Sarajevo
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Maja Pašović"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      author: "Maja Pašović"
+
+# Sass
+sass:
+  sass_dir: _sass
+#  style: :compact
+  style: :compressed
+
+# Other
+url: "http://majapasovic.org" # the base hostname & protocol for your site
+title: Maja Pašović
+author:
+  name: Maja Pašović
+  email: maja@majapasovic.org
+description: "The blog of Maja Pašović"

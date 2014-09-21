@@ -1,0 +1,79 @@
+---
+title: "Archive"
+permalink: /archive/
+categories:
+-
+tags:
+-
+menu: true
+weight: 3
+---
+
+<ul>
+  <li><a href="#yearly">Yearly Archive</a></li>
+  <li><a href="#category">Category Archive</a></li>
+  <li><a href="#tag">Tag Archive</a></li>
+</ul>
+
+<h3 id="yearly">Yearly Archive</h3>
+{% for post in site.posts %}
+{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+{% capture pyear %}{{ post.previous.date | date: '%Y' }}{% endcapture %}
+{% if year != nyear %}
+<h4>{{ post.date | date: '%Y' }}</h4>
+<ul>
+  {% for post in site.posts %}
+  {% capture postyear %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if postyear == year %}
+  <li>
+    <span>{{ post.date | date:"%b %d" }} </span>
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    {% if page.author %}<span>by {{ page.author }}</span>{% endif %}
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
+{% endif %}
+{% endfor %}
+
+<h3 id="category">Category Archive</h3>
+<ul>
+  {% for category in site.categories %}
+  <li><a href="#{{ category[0] }}-ref">{{ category[0] }}</a></li>
+  {% endfor %}
+</ul>
+
+<section>
+  {% for category in site.categories %}
+  <h1 id="{{ category[0] }}-ref">{{ category[0] }}</h1>
+  {% for post in category[1] %}
+  <h2><time>{{ post.date | date:"%b %d, %Y" }}</time></h2>
+  <ul>
+    <li>
+      <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    </li>
+  </ul>
+  {% endfor %}
+  {% endfor %}
+</section>
+
+<h3 id="tag">Tag Archive</h3>
+<ul>
+  {% for tag in site.tags %}
+  <li><a href="#{{ tag[0] }}-ref">{{ tag[0] }}</a></li>
+  {% endfor %}
+</ul>
+<section>
+  {% for tag in site.tags %}
+  <h1 id="{{ tag[0] }}-ref">{{ tag[0] }}</h1>
+  {% for post in tag[1] %}
+  <h2><time>{{ post.date | date:"%b %d, %Y" }}</time></h2>
+  <ul>
+    <li>
+      <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    </li>
+  </ul>
+  {% endfor %}
+  {% endfor %}
+</section>
