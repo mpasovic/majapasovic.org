@@ -80,8 +80,8 @@ sass:
 
 # Other
 url: "http://majapasovic.org" # the base hostname & protocol for your site
-title: Maja Pašović
+title: "Maja Pašović"
 author:
-  name: Maja Pašović
-  email: maja@majapasovic.org
+  name: "Maja Pašović"
+  email: "maja@majapasovic.org"
 description: "The blog of Maja Pašović"
