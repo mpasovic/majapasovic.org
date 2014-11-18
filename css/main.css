@@ -1,10 +1,10 @@
 @font-face{
     font-family:'MorrisRomanBlack';
-    src:url('fonts/morrisromanblack-webfont.eot');
-    src:url('fonts/morrisromanblack-webfont.eot?#iefix') format('embedded-opentype'),
-        url('fonts/morrisromanblack-webfont.woff') format('woff'),
-        url('fonts/morrisromanblack-webfont.ttf') format('truetype'),
-        url('fonts/morrisromanblack-webfont.svg#MorrisRomanBlack') format('svg');
+    src:url('/fonts/morrisromanblack-webfont.eot');
+    src:url('/fonts/morrisromanblack-webfont.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/morrisromanblack-webfont.woff') format('woff'),
+        url('/fonts/morrisromanblack-webfont.ttf') format('truetype'),
+        url('/fonts/morrisromanblack-webfont.svg#MorrisRomanBlack') format('svg');
         font-weight: normal;
         font-style: normal;
 }
@@ -139,8 +139,7 @@ body>header>nav>ul a:hover{border-top:solid 0.188em/* 3px */ #ac241f;color:#fefe
 
 article{margin-bottom:2.4em/* 24px = 1 line */;padding-bottom:2.4em/* 24px = 1 line */;word-wrap:break-word;}
 
-article>header{padding-top:12.0em/* 120px = 5 lines */;}
-article>header>hgroup>h1{text-align:center;}
+h1.title{text-align:center;padding-top:3.0em/* 120px = 5 lines */;}
 
 article>footer>nav>ul{font-size:1.6em/* 16px */;line-height:1.5/* 24px = 1 line */;margin-bottom:1.5em/* 24px = 1 line */;}
 article>footer>nav>ul:first-child{float:left;}
@@ -162,7 +161,7 @@ section>ul>li>h3{margin:0;}
 section>ul>li>p{font-size:0.778em/* 14px */;line-height:1.7143/* 24px = 1 line */;text-align:left;margin:0;}
 
 .versal{display:block;border:0;text-indent:-999em;overflow:hidden;background-color:transparent;text-align:left;background-repeat:no-repeat;direction:ltr;}
-.versal{float:left;width:7.222em;height:7.222em;margin-top:0.444em;padding-right:0.444em;background-repeat:no-repeat;}
+.versal{float:left;width:130px;height:130px;margin-top:8px;padding-right:8px;background-repeat:no-repeat;}
 .versal br{display:none;}
 .a9{background:url(/img/a.jpg) 0 0 no-repeat;}
 .b9{background:url(/img/b.jpg) 0 0 no-repeat;}
@@ -216,7 +215,7 @@ abbr[title]:after,dfn[title]:after{content:"\00A0""("attr(title)")";text-transfo
 a[href^="javascript:"]:after,a[href^="#"]:after{content:"";}
 p a[href^="/"]:after,li a[href^="/"]:after{content:"\00A0""(http://blog.mimes.is" attr(href)")";font-size:90%;}
 sup a[href^="/"]:after,sup a[href]:after{content:"";content:none;}
-article>header>hgroup>h1 a{font-weight:normal;text-transform:none;}
+h1.title{font-weight:normal;text-transform:none;}
 thead{display:table-header-group;}
 tr,img,pre,blockquote{page-break-inside:avoid;}
 img{max-width:100% !important;}
