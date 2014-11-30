@@ -110,8 +110,8 @@ html{background:#f4eed9 url(/img/bg.png);height:100%;}
 body{background:#f4eed9 url(/img/body-bg.png) repeat-y;width:504px;margin:0 auto;padding:0 122px 120px 52px;position:relative;min-height:100%;height:auto;}
 
 body>header{background:url(/img/body-head-bg.png) no-repeat;width:518px;position:absolute;left:45px;}
-body>header>a{background:url(/img/logo.png) no-repeat;z-index:10;width:79px;height:111px;position:fixed;top:0px;left:50%;margin-left:241px;display:block;border:0;text-indent:-9999px;overflow:hidden;background-color:transparent;text-align:left;background-repeat:no-repeat;}
-body>header>a:hover{background:url(/img/logo-inverse.png) no-repeat;z-index:11;width:79px;height:111px;position:fixed;top:0px;left:50%;margin-left:241px;display:block;border:0;text-indent:-9999px;overflow:hidden;background-color:transparent;text-align:left;background-repeat:no-repeat;}
+body>header>a{background:url(/img/logo.png) no-repeat;z-index:1000;width:79px;height:111px;position:fixed;top:0px;left:50%;margin-left:241px;display:block;border:0;text-indent:-9999px;overflow:hidden;background-color:transparent;text-align:left;background-repeat:no-repeat;}
+body>header>a:hover{background:url(/img/logo-inverse.png) no-repeat;z-index:1500;width:79px;height:111px;position:fixed;top:0px;left:50%;margin-left:241px;display:block;border:0;text-indent:-9999px;overflow:hidden;background-color:transparent;text-align:left;background-repeat:no-repeat;}
 body>header>nav{width:518px;height:32px;border-top:solid 3px #000000;margin:61px 0 11px;background:#ac241f;background-image:-webkit-gradient(linear,left bottom,left top,color-stop(0,#ac241f),color-stop(1,#8c0204));background-image:-moz-linear-gradient(center bottom,#ac241f 0%,#8c0204 100%);}
 body>header>nav>ul{font-size:18px;line-height:24px;margin-left:16px;}
 body>header>nav>ul>li{display:inline;}
