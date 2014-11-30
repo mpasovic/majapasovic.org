@@ -9,7 +9,7 @@
         font-style: normal;
 }
 
-body{font-size:16px;line-height:24px;font-family:"EB Garamond","DejaVu Serif",Georgia,serif;color:#1d1916;-moz-font-feature-settings:"liga=1,dlig=1,hlig=1,zero=1,onum=1,tnum=1";font-feature-settings:"liga=1,dlig=1,hlig=1,zero=1,onum=1,tnum=1";font-variant-ligatures:common-ligatures additional-ligatures historical-ligatures;font-variant-numeric:slashed-zero oldstyle-nums tabular-nums;}
+body{font-size:16px;line-height:24px;font-family:"DejaVu Serif",Georgia,serif;color:#1d1916;}
 
 ::selection{background:#ac241f;color:#fefefe;text-shadow:none;}
 a,a:hover,a:active{text-decoration:none;outline:0;}
@@ -24,7 +24,7 @@ h2:after{position:relative;top:6px;content:"\00A0" url(/img/flower.png) url(/img
 h3{font-size:21px;line-height:24px;margin-bottom:24px;}
 h4,h5,h6{font-size:18px;line-height:24px;margin-bottom:24px;}
 
-article,article p, article ol, article ul, article li,article blockquote{font-size:22px;font-style:normal;font-weight:300;line-height:30px;-webkit-hyphens:auto;-moz-hyphens:auto;hyphens:auto;}
+article,article p, article ol, article ul, article li,article blockquote{font-family:"EB Garamond","DejaVu Serif",Georgia,serif;color:#1d1916;-moz-font-feature-settings:"liga=1,hlig=1,dlig=1,cv11=1,cv90=1,calt=1,ccmp=1,pnum=1";font-feature-settings:"liga=1,hlig=1,dlig=1,cv11=1,cv90=1,calt=1,ccmp=1,pnum=1";font-size:22px;font-style:normal;font-weight:300;line-height:30px;-webkit-hyphens:auto;-moz-hyphens:auto;hyphens:auto;}
 article p{text-align:justify;}
 article>p+p{text-indent:48px;margin-top:-12px;}
 article>p+p>img{padding-top:24px;}
