@@ -9,9 +9,6 @@
         font-style: normal;
 }
 article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display:block;}
-audio,canvas,video{display:inline-block;}
-audio:not([controls]){display:none;}
-[hidden]{display:none;}
 
 object,embed,form,fieldset,legend,label,img,select,option,figure{max-width:100%;}
 
@@ -55,16 +52,12 @@ blockquote:before,blockquote:after,q:before,q:after{content:"";content:none;}
 blockquote{margin:36px;}
 blockquote>p{margin-bottom:24px;}
 blockquote>ul,blockquote>ol,blockquote>dl{line-height:24px;margin-bottom:0;}
-blockquote>ul ul,blockquote>ul ol,blockquote>ul p,blockquote>ul h1,blockquote>ul h2,blockquote>ul h3,blockquote>ul h4,blockquote>ul h5,blockquote>ul h6,blockquote>ol h1,blockquote>ol h2,blockquote>ol h3,blockquote>ol h4,blockquote>ol h5,blockquote>ol h6,blockquote>dl h1,blockquote>dl h2,blockquote>dl h3,blockquote>dl h4,blockquote>dl h5,blockquote>dl h6,blockquote>ol ul,blockquote>ol ol,blockquote>ol p,blockquote>dl p{margin-bottom:0;}
 blockquote>pre{display:table;font-family:inherit;margin:0 auto 24px;}
 blockquote>h2,blockquote>h2+h3{text-align:center;}
 blockquote>h2+h3{color:#1d1916;}
 blockquote[title]:after{display:block;font-size:14px;line-height:24px;margin-bottom:24px;content:"\2014""\00A0"attr(title);text-align:right;font-style:italic;color:#707065;}
 blockquote>p>cite{display:block;font-size:14px;line-height:24px;margin-bottom:24px;text-align:right;font-style:italic;color:#707065;}
 blockquote>p>cite:before{content:"\2014""\00A0";}
-
-code,kbd,samp,var{font-family:Consolas,"DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono",Monaco,"Lucida Console","Lucida Sans Typewriter",monospace;font-size:75%;}
-p>code{background:#cac4ab;border-radius:2px;padding:3px;}
 
 ul,ol{padding-left:36px;}
 article>ul{list-style-image:url(/img/list.png);}
@@ -76,19 +69,12 @@ nav ul,nav li{margin:0;padding:0;list-style:none;list-style-image:none;}
 dt:after{content:":";}
 dd{margin-left:36px;}
 
-em,i,dfn[title],cite{font-style:italic;}
+em,i,,cite{font-style:italic;}
 b,strong{font-weight:bold;}
 sub,sup{font-size:75%;position:relative;vertical-align:baseline;}
 sup{top:-0.5em;}
 sub{bottom:-0.25em;}
-del{text-decoration:line-through;}
-mark{background:#cac4ab;color:#1d1916;border-radius:2px;padding:0 3px;}
-ins{text-decoration:none;}
-ins:before{content:"[";}
-ins:after{content:"]";}
 hr{height:48px;width:100%;background:url(/img/hr.png) no-repeat center top;margin-bottom:24px;}
-abbr[title]{text-transform:lowercase;text-transform:uppercase;}
-p:hover abbr[title],dt:hover abbr[title],dd:hover>abbr[title],dd:hover>:not(p):not(dl):not(ul):not(ol):not(blockquote) abbr[title],li:hover>abbr[title],li:hover>:not(p):not(dl):not(ul):not(ol):not(blockquote) abbr[title],ul:hover>li>abbr[title],ul:hover>li>:not(p):not(dl):not(ul):not(ol):not(blockquote) abbr[title],ol:hover>li>abbr[title],ol:hover>li>:not(p):not(dl):not(ul):not(ol):not(blockquote) abbr[title],p:hover dfn[title],dt:hover dfn[title],dd:hover>dfn[title],dd:hover>:not(p):not(dl):not(ul):not(ol):not(blockquote) dfn[title],li:hover>dfn[title],li:hover>:not(p):not(dl):not(ul):not(ol):not(blockquote) dfn[title],ul:hover>li>dfn[title],ul:hover>li>:not(p):not(dl):not(ul):not(ol):not(blockquote) dfn[title],ol:hover>li>dfn[title], ol:hover>li>:not(p):not(dl):not(ul):not(ol):not(blockquote) dfn[title]{text-decoration:underline;-moz-text-decoration-line:underline;-moz-text-decoration-style:dotted;-moz-text-decoration-color:#1d1916;-webkit-text-decoration-line:underline;-webkit-text-decoration-style:dotted;-webkit-text-decoration-color:#1d1916;text-decoration-line:underline;text-decoration-style:dotted;text-decoration-color:#1d1916;cursor:help;}
 
 aside{width:216px;float:right;margin:6px 0 0 18px;padding:12px 0 6px 0;border-top:6px solid #1d1916;border-bottom:6px solid #1d1916;}
 
@@ -188,16 +174,6 @@ section>ul>li{padding-bottom:24px;}
 .y9{background:url(/img/y.jpg) 0 0 no-repeat;}
 .z9{background:url(/img/z.jpg) 0 0 no-repeat;}
 .ž9{background:url(/img/ž.jpg) 0 0 no-repeat;}
-
-.footnotes{border-top:1px dashed #cac4ab;border-bottom:1px dashed #cac4ab;padding:23px 0;margin-bottom:24px;}
-.footnotes>ol{font-size:10px;line-height:1;padding-left:36px;}
-.footnotes>ol>li{font-size:16px;line-height:24px;}
-.footnotes pre,.footnotes p,.footnotes dl,.footnotes ul,.footnotes>ol ol{font-size:16px;line-height:24px;}
-.footnotes pre,.footnotes p{margin-bottom:24px;}
-.footnotes h1,.footnotes h2,.footnotes h3,.footnotes h4,.footnotes h5,.footnotes h6{font-size:24px;line-height:24px;margin-bottom:24px;}
-
-.visuallyhidden,header>nav>a[title="Skip to content"]{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;}
-.visuallyhidden.focusable:active,.visuallyhidden.focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto;}
 
 @media print{
 html,body,article,header,hgroup,footer{background:white;color:black;width:100%;margin:0;padding:0;float:none;}
