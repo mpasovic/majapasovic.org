@@ -1,18 +1,18 @@
 @font-face{
     font-family:'MorrisRomanBlack';
-    src:url('/fonts/morrisromanblack-webfont.woff') format('woff'),
+    src:url('http://majapasovic.org/fonts/morrisromanblack-webfont.woff') format('woff'),
         font-weight: normal;
         font-style: normal;
 }
 @font-face{
     font-family:'EB Garamond';
-    src:url('EBGaramond12-Regular.woff') format('woff'),
+    src:url('http://majapasovic.org/fonts/EBGaramond12-Regular.woff') format('woff'),
     font-weight: normal;
     font-style: normal;
 }
 @font-face{
     font-family:'EB Garamond 12 Italic';
-    src:url('EBGaramond12-Italic.woff') format('woff'),
+    src:url('http://majapasovic.org/fonts/EBGaramond12-Italic.woff') format('woff'),
     font-weight: normal;
     font-style: italic;
 }
