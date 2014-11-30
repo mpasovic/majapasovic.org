@@ -42,7 +42,7 @@ h4,h5,h6,p,pre,ul,dl,form{font-size:18px;line-height:24px;margin-bottom:24px;}
 
 article,article p, article ol, article ul, article li,article blockquote{font-size:22px;font-style:normal;font-weight:300;line-height:30px;-webkit-hyphens:auto;-moz-hyphens:auto;hyphens:auto;text-rendering: optimizeLegibility;font-feature-settings:"kern";-webkit-font-feature-settings:"kern";-moz-font-feature-settings:"kern";-moz-font-feature-settings:"kern=1";font-kerning:normal;}
 article p{text-align:justify;}
-article>p+p,article>p+aside+p{text-indent:24px;margin-top:-24px;}
+article>p+p,article>p+aside+p{text-indent:48px;margin-top:-12px;}
 article>p+p>img,article>p+aside+p>img{padding-top:24px;}
 article>p:first-child{text-indent:0;}
 
