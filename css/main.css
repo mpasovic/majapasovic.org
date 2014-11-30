@@ -16,11 +16,10 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,hr,blockquote,pre,abbr,addr
 
 a,abbr,b,bdi,bdo,br,cite,code,del,dfn,em,i,img,ins,kbd,mark,q,samp,small,span,strong,sub,sup,time,var{line-height:0;}
 
-html{font-size:16px;overflow-y:scroll;-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-text-size-adjust:100%;-webkit-font-smoothing:subpixel-antialiased;text-rendering:optimizeLegibility;}
+html{font-size:16px;overflow-y:scroll;}
 
 body{font-size:16px;line-height:24px;font-family:"EB Garamond","DejaVu Serif",Georgia,serif;color:#1d1916;-moz-font-feature-settings:"liga=1,dlig=1,hlig=1,zero=1,onum=1,tnum=1";font-feature-settings:"liga=1,dlig=1,hlig=1,zero=1,onum=1,tnum=1";font-variant-ligatures:common-ligatures additional-ligatures historical-ligatures;font-variant-numeric:slashed-zero oldstyle-nums tabular-nums;}
 
-::-moz-selection{background:#ac241f;color:#fefefe;text-shadow:none;}
 ::selection{background:#ac241f;color:#fefefe;text-shadow:none;}
 a,a:hover,a:active{text-decoration:none;cursor:pointer;}
 a,a:visited{color:#8c0204;}
@@ -40,7 +39,7 @@ h3{font-size:21px;line-height:24px;margin-bottom:24px;}
 
 h4,h5,h6,p,pre,ul,dl,form{font-size:18px;line-height:24px;margin-bottom:24px;}
 
-article,article p, article ol, article ul, article li,article blockquote{font-size:22px;font-style:normal;font-weight:300;line-height:30px;-webkit-hyphens:auto;-moz-hyphens:auto;hyphens:auto;text-rendering: optimizeLegibility;font-feature-settings:"kern";-webkit-font-feature-settings:"kern";-moz-font-feature-settings:"kern";-moz-font-feature-settings:"kern=1";font-kerning:normal;}
+article,article p, article ol, article ul, article li,article blockquote{font-size:22px;font-style:normal;font-weight:300;line-height:30px;-webkit-hyphens:auto;-moz-hyphens:auto;hyphens:auto;}
 article p{text-align:justify;}
 article>p+p,article>p+aside+p{text-indent:48px;margin-top:-12px;}
 article>p+p>img,article>p+aside+p>img{padding-top:24px;}
@@ -94,25 +93,13 @@ svg:not(:root){overflow:hidden;}
 
 address>p{margin-bottom:24px;}
 
-label{cursor:pointer;}
-button,input,select,textarea{font-family:Garamond,"Hoefler Text","Times New Roman",Times,serif;color:#1d1916;font-size:100%;margin:0;vertical-align:baseline;}
-button,input{line-height:normal;}
-button,input[type="button"],input[type="reset"],input[type="submit"]{cursor:pointer;-webkit-appearance:button;}
-input[type="checkbox"],input[type="radio"]{box-sizing:border-box;}
-input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box;}
-input[type="search"]::-webkit-search-decoration{-webkit-appearance:none;}
-button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0;}
-textarea{overflow:auto;vertical-align:top;resize:vertical;}
-input:valid,textarea:valid{}
-input:invalid,textarea:invalid{background-color:#cac4ab;}
-
 html{background:#f4eed9 url(/img/bg.png);height:100%;}
 body{background:#f4eed9 url(/img/body-bg.png) repeat-y;width:504px;margin:0 auto;padding:0 122px 120px 52px;position:relative;min-height:100%;height:auto;}
 
 body>header{background:url(/img/body-head-bg.png) no-repeat;width:518px;position:absolute;left:45px;}
-body>header>a{background:url(/img/logo.png) no-repeat;z-index:1000;width:79px;height:111px;position:fixed;top:0px;left:675px;margin-left:241px;display:block;border:0;}
-body>header>a:hover{background:url(/img/logo-inverse.png) no-repeat;z-index:1500;width:79px;height:111px;position:fixed;top:0px;left:675px;margin-left:241px;display:block;border:0;}
-body>header>nav{width:518px;height:32px;border-top:solid 3px #000000;margin:61px 0 11px;background:#ac241f;background-image:-webkit-gradient(linear,left bottom,left top,color-stop(0,#ac241f),color-stop(1,#8c0204));background-image:-moz-linear-gradient(center bottom,#ac241f 0%,#8c0204 100%);}
+body>header>hgroup{width:79px;height:111px;position:fixed;top:0px;left:675px;margin-left:241px;display:block;border:0;}
+body>header>hgroup>a:hover{background:url(/img/logo-inverse.png) no-repeat;z-index:1500;}
+body>header>nav{width:518px;height:32px;border-top:solid 3px #000000;margin:61px 0 11px;background:#ac241f;}
 body>header>nav>ul{font-size:18px;line-height:24px;margin-left:16px;}
 body>header>nav>ul>li{display:inline;}
 body>header>nav>ul a,body>header>nav>ul a:visited{display:block;float:left;color:#fefefe;border-top:solid 3px #000000;margin-top:-3px;padding:0 22px;line-height:35px;}
