@@ -43,7 +43,7 @@ h3{font-size:21px;line-height:24px;margin-bottom:24px;}
 
 h4,h5,h6,p,pre,ul,dl,form{font-size:18px;line-height:24px;margin-bottom:24px;}
 
-article p{font-size:18px;font-style:normal;text-align:justify;-webkit-hyphens:auto;-moz-hyphens:auto;hyphens:auto;}
+article p{font-size:20px;font-style:normal;font-weight:300;text-align:justify;-webkit-hyphens:auto;-moz-hyphens:auto;hyphens:auto;}
 article>p+p,article>p+aside+p{text-indent:24px;margin-top:-24px;}
 article>p+p>img,article>p+aside+p>img{padding-top:24px;}
 article>p:first-child{text-indent:0;}
