@@ -26,12 +26,12 @@ html{
     align-items: center;
     justify-content: center;
     font-size:10px;
+    position:relative;
 }
 
 body{
-    display: flex;
-    flex-direction: column;
-    position:relative;
+    position:absolute;
+    height:100%;
     background: #f4eed9 url(../img/body-bg.png) repeat-y;
     width: 504px;
     padding: 0 122px 0 52px;
@@ -93,9 +93,7 @@ header>nav>ul a:hover{
     color: #ffffff;
 }
 article{
-    position:absolute;
     width: 518px;
-    height:100%;
     padding-bottom: 2.4rem;
 }
 footer{
