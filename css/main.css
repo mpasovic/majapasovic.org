@@ -60,12 +60,12 @@ article{margin-bottom:24px;padding-bottom:24px;word-wrap:break-word;}
 
 h1.title{text-align:center;padding-top:120px;}
 
-footer{background:#f4eed9 url(/img/foot-bg.png) no-repeat center bottom;clear:both;position:absolute;width:504px;bottom:0;}
-footer>p{text-align:center;font-size:14px;margin-bottom:96px;}
+footer{background:#f4eed9 url(/img/foot-bg.png) no-repeat center bottom;clear:both;width:504px;bottom:0;}
+footer>p{text-align:center;font-size:16px;}
 
 section>h2{border-bottom:1px solid #1d1916;}
-section>h3{margin:0;float:left;width:100px;text-align:right;color:#1d1916;}
-section>ul{margin:0;padding:0;list-style:none;list-style-image:none;margin-left:118px;}
+section>h3{margin:0;float:left;width:110px;text-align:right;color:#1d1916;}
+section>ul{margin:0;padding:0;list-style:none;list-style-image:none;margin-left:128px;}
 section>ul>li{padding-bottom:24px;}
 
 .versal{display:block;border:0;text-indent:-9999px;overflow:hidden;background-color:transparent;text-align:left;background-repeat:no-repeat;float:left;width:130px;height:130px;margin-top:8px;padding-right:8px;}
