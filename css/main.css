@@ -1,57 +1,35 @@
 @font-face{
-    font-family:'MorrisRomanBlack';
+    font-family: 'MorrisRomanBlack';
     src: url('../fonts/morrisromanblack-webfont.woff') format('woff'),
          url('../fonts/morrisromanblack-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face{
-    font-family:'EB Garamond';
+    font-family: 'EB Garamond';
     src: url('../fonts/EBGaramond12-Regular.woff') format('woff'),
          url('../fonts/EBGaramond12-Regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face{
-    font-family:'EB Garamond 12 Italic';
+    font-family: 'EB Garamond 12 Italic';
     src: url('../fonts/EBGaramond12-Italic.woff') format('woff'),
          url('../fonts/EBGaramond12-Italic.otf') format('opentype');
     font-weight: normal;
     font-style: italic;
 }
 
-::selection{background:#ac241f;color:#fefefe;}
-a,a:hover,a:active{text-decoration:none;}
-a,a:visited{color:#8c0204;}
-a:hover{color:#d34325;}
-
-h1,h2{font-family:"MorrisRomanBlack",Georgia,serif;}
-h1{text-transform:uppercase;font-size:36px;text-align:center;}
-h2,h3,h4,h5,h6{color:#d34325;}
-h2{font-size:24px;}
-h2:after{position:relative;top:6px;content:"\00A0" url(../img/flower.png) url(../img/flower.png);}
-h3{font-size:21px;}
-
-article p{text-align:justify;}
-em{font-family:"EB Garamond 12 Italic",Georgia,serif;-moz-font-feature-settings:"liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum","clig","swsh","cv04";font-feature-settings:"liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum","clig","swsh","cv04";}
-article>p+p{text-indent:48px;}
-article>p:first-child{text-indent:0;}
-
-ul,ol{padding-left:36px;}
-article>ul{list-style-image:url(../img/list.png);}
-
-hr{height:48px;width:100%;background:url(../img/hr.png) no-repeat center top;margin-bottom:24px;border:none;}
-
-img{max-width:100%;}
-
 html{
-    background:#f4eed9 url(../img/bg.png);
+    background: #f4eed9 url(../img/bg.png);
     display: flex;
     align-items: center;
     justify-content: center;
+    font-size:10px;
 }
 
-body{background:#f4eed9 url(../img/body-bg.png) repeat-y;
+body{
+    background: #f4eed9 url(../img/body-bg.png) repeat-y;
      width: 504px;
      padding: 0 122px 0 52px;
      text-rendering: optimizeLegibility;
@@ -63,7 +41,7 @@ body{background:#f4eed9 url(../img/body-bg.png) repeat-y;
      color:#1d1916;
      -moz-font-feature-settings: "liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum";
      font-feature-settings: "liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum";
-     font-size: 22px;
+     font-size: 2.2rem;
      line-height: 1.5;
      -webkit-hyphens: auto;
      -moz-hyphens: auto;
@@ -71,55 +49,160 @@ body{background:#f4eed9 url(../img/body-bg.png) repeat-y;
      word-wrap:break-word;
     }
 
-header{background:url(../img/body-head-bg.png) no-repeat;
-       width:518px;
-       align-self: flex-start;
-       margin-left:-7px;
-      }
-header>hgroup{width:79px;
-              height:111px;
-              position:relative;
-              top:0px;
-              left:530px;
-              display:block;
-             }
-header>nav{width:518px;
-           height:32px;
-           margin-top:-50px;
-           background:#ac241f;
-          }
-header>nav>ul{margin:0;padding:0;}
-header>nav>ul>li{display:inline;
-                 font-size:21px;
-                 text-align:center;
+header{
+    background: url(../img/body-head-bg.png) no-repeat;
+    width: 518px;
+    align-self: flex-start;
+    margin-left: -7px;
+}
+header>hgroup{
+    width: 79px;
+    height: 111px;
+    position: relative;
+    top: 0px;
+    left: 530px;
+    display: block;
+}
+header>nav{
+    width: 518px;
+    height: 32px;
+    margin-top: -50px;
+    background: #ac241f;
+}
+header>nav>ul{
+    margin: 0;
+    padding: 0;
+}
+header>nav>ul>li{
+    display: inline;
+    font-size: 2.1rem;
+    text-align: center;
+}
+header>nav>ul a,header>nav>ul a:visited{
+                    display: block;
+                    float: left;
+                    color: #ffffff;
+                    border-top: solid 0.3rem #000000;
+                    width: calc(518px / 5);
                 }
-header>nav>ul a,header>nav>ul a:visited{display:block;
-                                        float:left;
-                                        color:#ffffff;
-                                        border-top:solid 3px #000000;
-                                        width: calc(518px / 5);
-                                       }
-header>nav>ul a:hover{border-top:solid 3px #ac241f;color:#ffffff;}
+header>nav>ul a:hover{
+    border-top: solid 0.3rem #ac241f;
+    color: #ffffff;
+}
+article{
+    padding-bottom: 2.4rem;
+}
+footer{
+    background: url(../img/foot-bg.png);
+    width: 504px;
+    height: 96px;
+    align-self: flex-end;
+}
+footer>p{
+    text-align: center;
+    font-size: 1.8rem;
+    position: relative;
+    top: -27px;
+}
+section>h2{
+    border-bottom: 0.1rem solid #1d1916;
+}
+section>h3{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    color:#1d1916;
+    padding-left: 2.4rem;
+}
+section>ul{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    list-style: none;
+    list-style-image: none;
+    padding-left: 14rem;
+    margin-top: -5rem;
+}
 
-article{padding-bottom:24px;}
+::selection{
+    background: #ac241f;
+    color: #fefefe;
+}
+a,a:hover,a:active{
+              text-decoration: none;
+          }
+a,a:visited{
+      color: #8c0204;
+  }
+a:hover{
+    color: #d34325;
+}
 
-footer{background: url(../img/foot-bg.png);
-       width: 504px;
-       height: 96px;
-       align-self: flex-end;
-      }
-footer>p{text-align: center;
-         font-size: 18px;
-         position: relative;
-         top: -27px;
-        }
+h1,h2{
+    font-family: "MorrisRomanBlack", Georgia, serif;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 3.6rem;
+    text-align: center;
+}
+h2,h3,h4,h5,h6{
+    color: #d34325;
+}
+h2{
+    font-size: 2.4rem;
+}
+h2:after{
+    position: relative;
+    top: 0.6rem;
+    content: "\00A0" url(../img/flower.png) url(../img/flower.png);
+}
+h3{
+    font-size: 2.1rem;
+}
 
-section>h2{border-bottom:1px solid #1d1916;}
-section>h3{margin:0;float:left;width:110px;text-align:right;color:#1d1916;}
-section>ul{margin:0;padding:0;list-style:none;list-style-image:none;margin-left:128px;}
-section>ul>li{padding-bottom:24px;}
+article p{
+    text-align: justify;
+}
+em{
+    font-family: "EB Garamond 12 Italic", Georgia, serif;
+    -moz-font-feature-settings: "liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum","clig","swsh","cv04";
+    font-feature-settings: "liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum","clig","swsh","cv04";
+}
+article>p+p{
+    text-indent: 4.8rem;
+}
+article>p:first-child{
+    text-indent: 0;
+}
 
-.versal{display:block;border:0;text-indent:-9999px;overflow:hidden;background-color:transparent;text-align:left;background-repeat:no-repeat;float:left;width:130px;height:130px;margin-top:8px;padding-right:8px;}
+ul,ol{
+    padding-left: 3.6rem;
+}
+article>ul{
+    list-style-image: url(../img/list.png);
+}
+
+hr{
+    height: 48px;
+    width: 100%;
+    background: url(../img/hr.png) no-repeat center top;
+    margin-bottom: 2.4rem;
+    border:none;
+}
+
+img{
+    max-width: 100%;
+}
+
+.versal{
+    text-indent: -9999px;
+    float: left;
+    width: 13.0rem;
+    height: 13.0rem;
+    margin-top: 1.6rem;
+    padding-right: 1.6rem;
+}
 .a9{background:url(../img/a.jpg) 0 0 no-repeat;}
 .b9{background:url(../img/b.jpg) 0 0 no-repeat;}
 .c9{background:url(../img/c.jpg) 0 0 no-repeat;}
