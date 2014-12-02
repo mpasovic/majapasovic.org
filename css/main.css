@@ -23,6 +23,8 @@
 html{
     background: #f4eed9 url(../img/bg.png);
     display: flex;
+    flex-direction: row;
+    align-items: stretch;
     align-items: center;
     justify-content: center;
     font-size:10px;
@@ -31,7 +33,6 @@ html{
 body{
     background: #f4eed9 url(../img/body-bg.png) repeat-y;
     width: 504px;
-    min-height:100%;
     padding: 0 122px 0 52px;
     text-rendering: optimizeLegibility;
     -moz-font-feature-settings: "kern";
