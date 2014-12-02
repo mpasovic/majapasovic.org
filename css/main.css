@@ -20,67 +20,52 @@
     font-style: italic;
 }
 
+html{background:#f4eed9 url(/img/bg.png);height:100%;}
 
-
-body{font-size:16px;line-height:24px;font-family:"DejaVu Serif",Georgia,serif;color:#1d1916;}
+body{background:#f4eed9 url(/img/body-bg.png) repeat-y;width:504px;margin:0 auto;margin-top:-24px;padding:0 122px 120px 52px;position:relative;min-height:100%;height:auto;text-rendering:optimizeLegibility;-moz-font-feature-settings:"kern";font-feature-settings:"kern";font-kerning:normal;font-variant-ligatures:common-ligatures discretionary-ligatures historical-ligatures contextual;font-family:"EB Garamond",Georgia,serif;color:#1d1916;-moz-font-feature-settings:"liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum";font-feature-settings:"liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum";font-size:22px;line-height:1.5;-webkit-hyphens:auto;-moz-hyphens:auto;hyphens:auto;}
 
 ::selection{background:#ac241f;color:#fefefe;text-shadow:none;}
 a,a:hover,a:active{text-decoration:none;outline:0;}
 a,a:visited{color:#8c0204;}
 a:hover{color:#d34325;}
 
-h1,h2{font-family:"MorrisRomanBlack","DejaVu Serif",Georgia,serif;}
-h1{text-transform:uppercase;font-size:36px;line-height:48px;margin-bottom:24px;}
-h2,h3,h4,h5,h6{color:#d34325;}
-h2{font-size:24px;line-height:24px;margin-bottom:24px;}
+h1,h2{font-family:"MorrisRomanBlack",Georgia,serif;}
+h1{text-transform:uppercase;font-size:36px;margin-bottom:24px;}
+h2,h3,h4,h5,h6{color:#d34325;margin-bottom:24px;}
+h2{font-size:24px;}
 h2:after{position:relative;top:6px;content:"\00A0" url(/img/flower.png) url(/img/flower.png);}
-h3{font-size:21px;line-height:24px;margin-bottom:24px;}
-h4,h5,h6{font-size:18px;line-height:24px;margin-bottom:24px;}
+h3{font-size:21px;}
 
-article,article p, article ol, article ul, article li,article blockquote{text-rendering:optimizeLegibility;-moz-font-feature-settings:"kern";font-feature-settings:"kern";font-kerning:normal;font-variant-ligatures:common-ligatures discretionary-ligatures historical-ligatures contextual;font-family:"EB Garamond","DejaVu Serif",Georgia,serif;color:#1d1916;-moz-font-feature-settings:"liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum";font-feature-settings:"liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum";font-size:22px;font-style:normal;font-weight:300;line-height:30px;-webkit-hyphens:auto;-moz-hyphens:auto;hyphens:auto;}
 article p{text-align:justify;}
-article em,article p em, article ol em, article ul em, article li em,article blockquote em{font-family:"EB Garamond 12 Italic","DejaVu Serif",Georgia,serif;-moz-font-feature-settings:"liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum","clig","swsh","cv04";font-feature-settings:"liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum","clig","swsh","cv04";}
-article>p+p{text-indent:48px;margin-top:-12px;}
-article>p+p>img{padding-top:24px;}
+em{font-family:"EB Garamond 12 Italic",Georgia,serif;-moz-font-feature-settings:"liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum","clig","swsh","cv04";font-feature-settings:"liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum","clig","swsh","cv04";}
+article>p+p{text-indent:48px;}
 article>p:first-child{text-indent:0;}
-
-blockquote,q{quotes:none;}
-blockquote:before,blockquote:after,q:before,q:after{content:"";content:none;}
 
 ul,ol{padding-left:36px;}
 article>ul{list-style-image:url(/img/list.png);}
-ol{list-style:decimal;margin-bottom:24px;}
 
-sub,sup{font-size:75%;position:relative;vertical-align:baseline;}
-sup{top:-0.5em;}
-sub{bottom:-0.25em;}
 hr{height:48px;width:100%;background:url(/img/hr.png) no-repeat center top;margin-bottom:24px;border:none;}
 
-img{vertical-align:middle;}
-article img{display:block;margin:0 auto 24px;max-width:100%;}
+img{max-width:100%;}
 
-html{background:#f4eed9 url(/img/bg.png);height:100%;}
-body{background:#f4eed9 url(/img/body-bg.png) repeat-y;width:504px;margin:0 auto;margin-top:-24px;padding:0 122px 120px 52px;position:relative;min-height:100%;height:auto;}
-
-body>header{background:url(/img/body-head-bg.png) no-repeat;width:518px;position:absolute;left:45px;}
-body>header>hgroup{width:79px;height:111px;position:relative;top:0px;left:530px;display:block;border:0;}
-body>header>nav{width:518px;height:32px;border-top:solid 3px #000000;margin:-50px 0 11px;background:#ac241f;}
-body>header>nav>ul{line-height:32px;margin-left:16px;margin:0 0 0 16px;padding:0;}
-body>header>nav>ul>li{display:inline;font-size:16px;line-height:32px;}
-body>header>nav>ul a,body>header>nav>ul a:visited{display:block;float:left;color:#ffffff;border-top:solid 3px #000000;margin-top:-3px;padding:0 22px;line-height:35px;}
-body>header>nav>ul a:hover{border-top:solid 3px #ac241f;color:#fefefe;}
+header{background:url(/img/body-head-bg.png) no-repeat;width:518px;position:absolute;left:45px;}
+header>hgroup{width:79px;height:111px;position:relative;top:0px;left:530px;display:block;border:0;}
+header>nav{width:518px;height:32px;border-top:solid 3px #000000;margin:-50px 0 11px;background:#ac241f;}
+header>nav>ul{margin-left:16px;margin:0 0 0 16px;padding:0;}
+header>nav>ul>li{display:inline;font-size:16px;}
+header>nav>ul a,header>nav>ul a:visited{display:block;float:left;color:#ffffff;border-top:solid 3px #000000;margin-top:-3px;padding:0 22px;}
+header>nav>ul a:hover{border-top:solid 3px #ac241f;color:#fefefe;}
 
 article{margin-bottom:24px;padding-bottom:24px;word-wrap:break-word;}
 
 h1.title{text-align:center;padding-top:120px;}
 
-body>footer{background:#f4eed9 url(/img/foot-bg.png) no-repeat center bottom;clear:both;position:absolute;width:504px;bottom:0;}
-body>footer>p{text-align:center;font-size:14px;line-height:27px;margin-bottom:96px;}
+footer{background:#f4eed9 url(/img/foot-bg.png) no-repeat center bottom;clear:both;position:absolute;width:504px;bottom:0;}
+footer>p{text-align:center;font-size:14px;margin-bottom:96px;}
 
-section>h2{line-height:47px;border-bottom:1px solid #1d1916;}
-section>h3{margin:0;float:left;width:180px;text-align:right;color:#1d1916;line-height:24px;}
+section>h2{border-bottom:1px solid #1d1916;}
+section>h3{margin:0;float:left;width:180px;text-align:right;color:#1d1916;}
 section>h3:after{content:"";content:none;}
-section>h3{font-size:21px;}
 section>ul{margin:0;padding:0;list-style:none;list-style-image:none;margin-left:198px;}
 section>ul>li{padding-bottom:24px;}
 
