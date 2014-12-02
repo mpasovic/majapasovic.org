@@ -60,7 +60,7 @@ article{margin-bottom:24px;padding-bottom:24px;word-wrap:break-word;}
 
 h1.title{text-align:center;padding-top:120px;}
 
-footer{background:#f4eed9 url(/img/foot-bg.png) no-repeat center bottom;clear:both;position:relative;width:504px;bottom:0;}
+footer{background:#f4eed9 url(/img/foot-bg.png) no-repeat center bottom;clear:both;position:absolute;width:504px;bottom:0;}
 footer>p{text-align:center;font-size:16px;}
 
 section>h2{border-bottom:1px solid #1d1916;}
