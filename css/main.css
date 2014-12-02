@@ -31,6 +31,7 @@ html{
 
 body{
     position:absolute;
+    width:518px;
     height:100%;
     background: #f4eed9 url(../img/body-bg.png) repeat-y;
     width: 504px;
