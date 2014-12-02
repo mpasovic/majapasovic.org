@@ -1,21 +1,21 @@
 @font-face{
     font-family: 'MorrisRomanBlack';
     src: url('../fonts/morrisromanblack-webfont.woff') format('woff'),
-         url('../fonts/morrisromanblack-webfont.ttf') format('truetype');
+    url('../fonts/morrisromanblack-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face{
     font-family: 'EB Garamond';
     src: url('../fonts/EBGaramond12-Regular.woff') format('woff'),
-         url('../fonts/EBGaramond12-Regular.otf') format('opentype');
+    url('../fonts/EBGaramond12-Regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face{
     font-family: 'EB Garamond 12 Italic';
     src: url('../fonts/EBGaramond12-Italic.woff') format('woff'),
-         url('../fonts/EBGaramond12-Italic.otf') format('opentype');
+    url('../fonts/EBGaramond12-Italic.otf') format('opentype');
     font-weight: normal;
     font-style: italic;
 }
@@ -30,24 +30,25 @@ html{
 
 body{
     background: #f4eed9 url(../img/body-bg.png) repeat-y;
-     width: 504px;
-     padding: 0 122px 0 52px;
-     text-rendering: optimizeLegibility;
-     -moz-font-feature-settings: "kern";
-     font-feature-settings: "kern";
-     font-kerning: normal;
-     font-variant-ligatures: common-ligatures discretionary-ligatures historical-ligatures contextual;
-     font-family: "EB Garamond",Georgia,serif;
-     color:#1d1916;
-     -moz-font-feature-settings: "liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum";
-     font-feature-settings: "liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum";
-     font-size: 2.2rem;
-     line-height: 1.5;
-     -webkit-hyphens: auto;
-     -moz-hyphens: auto;
-     hyphens: auto;
-     word-wrap:break-word;
-    }
+    width: 504px;
+    height:100%;
+    padding: 0 122px 0 52px;
+    text-rendering: optimizeLegibility;
+    -moz-font-feature-settings: "kern";
+    font-feature-settings: "kern";
+    font-kerning: normal;
+    font-variant-ligatures: common-ligatures discretionary-ligatures historical-ligatures contextual;
+    font-family: "EB Garamond",Georgia,serif;
+    color:#1d1916;
+    -moz-font-feature-settings: "liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum";
+    font-feature-settings: "liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum";
+    font-size: 2.2rem;
+    line-height: 1.5;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+    word-wrap:break-word;
+}
 
 header{
     background: url(../img/body-head-bg.png) no-repeat;
