@@ -26,13 +26,9 @@ html{
     align-items: center;
     justify-content: center;
     font-size:10px;
-    position:relative;
 }
 
 body{
-    position:absolute;
-    width:518px;
-    height:100%;
     background: #f4eed9 url(../img/body-bg.png) repeat-y;
     width: 504px;
     padding: 0 122px 0 52px;
