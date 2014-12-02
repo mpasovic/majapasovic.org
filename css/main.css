@@ -90,9 +90,10 @@ header>nav>ul a:hover{
     color: #ffffff;
 }
 article{
+    width:400px;
     padding-bottom: 2.4rem;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: stretch;
 }
 footer{
