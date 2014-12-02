@@ -29,6 +29,8 @@ html{
 }
 
 body{
+    display: flex;
+    flex-direction: column;
     background: #f4eed9 url(../img/body-bg.png) repeat-y;
     width: 504px;
     padding: 0 122px 0 52px;
@@ -90,6 +92,7 @@ header>nav>ul a:hover{
     color: #ffffff;
 }
 article{
+    flex: 1;
     width: 518px;
     padding-bottom: 2.4rem;
     height:100%;
