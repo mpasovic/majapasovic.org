@@ -92,7 +92,6 @@ header>nav>ul a:hover{
 article{
     padding-bottom: 2.4rem;
     display: flex;
-    flex-direction: row;
     align-items: stretch;
 }
 footer{
