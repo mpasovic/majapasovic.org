@@ -21,11 +21,11 @@
 }
 
 html{
-    background: #f4eed9 url(../img/bg.png);
+    background: url(../img/bg.png);
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size:10px;
+    font-size: 10px;
 }
 
 body{
@@ -37,7 +37,7 @@ body{
     font-feature-settings: "kern";
     font-kerning: normal;
     font-variant-ligatures: common-ligatures discretionary-ligatures historical-ligatures contextual;
-    font-family: "EB Garamond",Georgia,serif;
+    font-family: "EB Garamond", Georgia, serif;
     color:#1d1916;
     -moz-font-feature-settings: "liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum";
     font-feature-settings: "liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum";
@@ -55,13 +55,13 @@ header{
     align-self: flex-start;
     margin-left: -7px;
 }
+
 header>hgroup{
     width: 79px;
     height: 111px;
     position: relative;
     top: 0px;
     left: 530px;
-    display: block;
 }
 header>nav{
     width: 518px;
