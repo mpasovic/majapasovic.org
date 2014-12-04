@@ -5,6 +5,7 @@
     font-weight: normal;
     font-style: normal;
 }
+
 @font-face{
     font-family: 'EB Garamond';
     src: url('../fonts/EBGaramond12-Regular.woff') format('woff'),
@@ -12,6 +13,7 @@
     font-weight: normal;
     font-style: normal;
 }
+
 @font-face{
     font-family: 'EB Garamond 12 Italic';
     src: url('../fonts/EBGaramond12-Italic.woff') format('woff'),
@@ -63,78 +65,80 @@ header>hgroup{
     top: 0px;
     left: 530px;
 }
+
 header>nav{
-    width: 518px;
     height: 32px;
     margin-top: -50px;
     background: #ac241f;
 }
+
 header>nav>ul{
     margin: 0;
     padding: 0;
 }
+
 header>nav>ul>li{
     display: inline;
     font-size: 2.1rem;
     text-align: center;
 }
+
 header>nav>ul a,header>nav>ul a:visited{
-                    display: block;
                     float: left;
                     color: #ffffff;
                     border-top: solid 0.3rem #000000;
-                    width: calc(518px / 5);
+                    width: calc(100% / 5);
                 }
+
 header>nav>ul a:hover{
     border-top: solid 0.3rem #ac241f;
     color: #ffffff;
 }
+
 article{
     min-height: 100vh;
     padding-bottom: 2.4rem;
 }
-footer{
-    background: url(../img/foot-bg.png);
-    width: 504px;
-    height: 96px;
-    align-self: flex-end;
-}
+
 footer>p{
+    background: url(../img/foot-bg.png) no-repeat center bottom;
+    height: 130px;
+    align-self: flex-end;
     text-align: center;
     font-size: 1.8rem;
-    position: relative;
-    top: -27px;
 }
+
 section>h2{
     border-bottom: 0.1rem solid #1d1916;
 }
+
 section>h3{
-    display: flex;
-    justify-content: left;
-    align-items: left;
     color:#1d1916;
-    padding-left: 2.4rem;
+    text-align:right;
+    display:block;
+    width:110px;
 }
+
 section>ul{
-    display: flex;
-    justify-content: right;
-    align-items: right;
     list-style: none;
-    list-style-image: none;
-    padding-left: 14rem;
+    padding-left: 13rem;
     margin-top: -5rem;
+    display:block;
 }
 
 ::selection{
     background: #ac241f;
     color: #fefefe;
 }
+
 a,a:hover,a:active{
               text-decoration: none;
           }
+
 a,a:visited{
       color: #8c0204;
   }
+
 a:hover{
     color: #d34325;
 }
@@ -142,37 +146,45 @@ a:hover{
 h1,h2,h3{
     font-family: "MorrisRomanBlack", Georgia, serif;
 }
+
 h1{
     text-transform: uppercase;
     font-size: 3.6rem;
     text-align: center;
 }
+
 h2,h3,h4,h5,h6{
     color: #d34325;
 }
+
 h2{
     font-size: 2.4rem;
 }
+
 h2:after{
     position: relative;
     top: 0.6rem;
     content: "\00A0" url(../img/flower.png) url(../img/flower.png);
 }
+
 h3{
     font-size: 2.1rem;
 }
 
-article p{
-    text-align: justify;
-}
 em{
     font-family: "EB Garamond 12 Italic", Georgia, serif;
     -moz-font-feature-settings: "liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum","clig","swsh","cv04";
     font-feature-settings: "liga","hlig","dlig","cv11","cv90","calt","ccmp","pnum","clig","swsh","cv04";
 }
+
+article p{
+    text-align: justify;
+}
+
 article>p+p{
     text-indent: 4.8rem;
 }
+
 article>p:first-child{
     text-indent: 0;
 }
@@ -180,6 +192,7 @@ article>p:first-child{
 ul,ol{
     padding-left: 3.6rem;
 }
+
 article>ul{
     list-style-image: url(../img/list.png);
 }
@@ -204,34 +217,35 @@ img{
     margin-top: 1.6rem;
     padding-right: 1.6rem;
 }
-.a9{background:url(../img/a.jpg) 0 0 no-repeat;}
-.b9{background:url(../img/b.jpg) 0 0 no-repeat;}
-.c9{background:url(../img/c.jpg) 0 0 no-repeat;}
-.ć9{background:url(../img/ć.jpg) 0 0 no-repeat;}
-.č9{background:url(../img/č.jpg) 0 0 no-repeat;}
-.d9{background:url(../img/d.jpg) 0 0 no-repeat;}
-.đ9{background:url(../img/đ.jpg) 0 0 no-repeat;}
-.e9{background:url(../img/e.jpg) 0 0 no-repeat;}
-.f9{background:url(../img/f.jpg) 0 0 no-repeat;}
-.g9{background:url(../img/g.jpg) 0 0 no-repeat;}
-.h9{background:url(../img/h.jpg) 0 0 no-repeat;}
-.i9{background:url(../img/i.jpg) 0 0 no-repeat;}
-.j9{background:url(../img/j.jpg) 0 0 no-repeat;}
-.k9{background:url(../img/k.jpg) 0 0 no-repeat;}
-.l9{background:url(../img/l.jpg) 0 0 no-repeat;}
-.m9{background:url(../img/m.jpg) 0 0 no-repeat;}
-.n9{background:url(../img/n.jpg) 0 0 no-repeat;}
-.o9{background:url(../img/o.jpg) 0 0 no-repeat;}
-.p9{background:url(../img/p.jpg) 0 0 no-repeat;}
-.q9{background:url(../img/q.jpg) 0 0 no-repeat;}
-.r9{background:url(../img/r.jpg) 0 0 no-repeat;}
-.s9{background:url(../img/s.jpg) 0 0 no-repeat;}
-.š9{background:url(../img/š.jpg) 0 0 no-repeat;}
-.t9{background:url(../img/t.jpg) 0 0 no-repeat;}
-.u9{background:url(../img/u.jpg) 0 0 no-repeat;}
-.v9{background:url(../img/v.jpg) 0 0 no-repeat;}
-.w9{background:url(../img/w.jpg) 0 0 no-repeat;}
-.x9{background:url(../img/x.jpg) 0 0 no-repeat;}
-.y9{background:url(../img/y.jpg) 0 0 no-repeat;}
-.z9{background:url(../img/z.jpg) 0 0 no-repeat;}
-.ž9{background:url(../img/ž.jpg) 0 0 no-repeat;}
+
+.a9{background:url(../img/a.jpg) no-repeat;}
+.b9{background:url(../img/b.jpg) no-repeat;}
+.c9{background:url(../img/c.jpg) no-repeat;}
+.ć9{background:url(../img/ć.jpg) no-repeat;}
+.č9{background:url(../img/č.jpg) no-repeat;}
+.d9{background:url(../img/d.jpg) no-repeat;}
+.đ9{background:url(../img/đ.jpg) no-repeat;}
+.e9{background:url(../img/e.jpg) no-repeat;}
+.f9{background:url(../img/f.jpg) no-repeat;}
+.g9{background:url(../img/g.jpg) no-repeat;}
+.h9{background:url(../img/h.jpg) no-repeat;}
+.i9{background:url(../img/i.jpg) no-repeat;}
+.j9{background:url(../img/j.jpg) no-repeat;}
+.k9{background:url(../img/k.jpg) no-repeat;}
+.l9{background:url(../img/l.jpg) no-repeat;}
+.m9{background:url(../img/m.jpg) no-repeat;}
+.n9{background:url(../img/n.jpg) no-repeat;}
+.o9{background:url(../img/o.jpg) no-repeat;}
+.p9{background:url(../img/p.jpg) no-repeat;}
+.q9{background:url(../img/q.jpg) no-repeat;}
+.r9{background:url(../img/r.jpg) no-repeat;}
+.s9{background:url(../img/s.jpg) no-repeat;}
+.š9{background:url(../img/š.jpg) no-repeat;}
+.t9{background:url(../img/t.jpg) no-repeat;}
+.u9{background:url(../img/u.jpg) no-repeat;}
+.v9{background:url(../img/v.jpg) no-repeat;}
+.w9{background:url(../img/w.jpg) no-repeat;}
+.x9{background:url(../img/x.jpg) no-repeat;}
+.y9{background:url(../img/y.jpg) no-repeat;}
+.z9{background:url(../img/z.jpg) no-repeat;}
+.ž9{background:url(../img/ž.jpg) no-repeat;}
