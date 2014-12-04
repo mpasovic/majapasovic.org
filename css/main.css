@@ -90,7 +90,7 @@ header>nav>ul a:hover{
     color: #ffffff;
 }
 article{
-    min-height: 800px;
+    height: 100vh;
     padding-bottom: 2.4rem;
 }
 footer{
