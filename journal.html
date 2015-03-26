@@ -3,102 +3,27 @@ layout: page
 title: "Journal"
 ---
 
-<section id="outline-container-unnumbered-2" class="outline-2">
+{% for post in site.posts  %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 
-<h2 id="unnumbered-2">2014</h2>
-<h3 id="unnumbered-3">January 10</h3>
-<ul class="org-ul">
-<li><a href="posts/numeric-patterns-and-the-universe.html">Interpretation of the Universe through Numbers</a>
-</li>
-</ul>
-</section>
-<section id="outline-container-unnumbered-4" class="outline-2">
+    {% if forloop.first %}
+    <section>
+    <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
+    {% endif %}
 
-<h2 id="unnumbered-4">2013</h2>
-<h3 id="unnumbered-5">December 23</h3>
-<ul class="org-ul">
-<li><a href="posts/cyborg-manifesto.html">Don&rsquo;t Cyborgize Me: I Want to Be Human&#x2026; Just Human!</a>
-</li>
-</ul>
-</section>
-<section id="outline-container-unnumbered-6" class="outline-2">
+    <h3>{{ post.date | date: "%M %d" }}}</h3>
 
-<h2 id="unnumbered-6">2012</h2>
-<h3 id="unnumbered-7">July 07</h3>
-<ul class="org-ul">
-<li><a href="posts/global-bodies.html">Private Bodies vs. Global Bodies</a>
-</li>
-</ul>
+    <ul>
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    </ul>
 
-<h3 id="unnumbered-8">July 02</h3>
-<ul class="org-ul">
-<li><a href="posts/bodies-and-cyborgs.html">Turning Humans into Machines: The Scary and/or Beneficial Aspects of Genetic Engineering</a>
-</li>
-</ul>
+    {% if forloop.last %}
 
-<h3 id="unnumbered-9">June 25</h3>
-<ul class="org-ul">
-<li><a href="posts/disability-and-bodies.html">Bodies in the Claws of Postmodernism: On the Way to Liberation or Chained More than Ever?</a>
-</li>
-</ul>
-
-<h3 id="unnumbered-10">June 24</h3>
-<ul class="org-ul">
-<li><a href="posts/disability-and-humor.html">Disability as a Tool for Entertainment: Disability and Stand-Up Comedy</a>
-</li>
-</ul>
-
-<h3 id="unnumbered-11">June 17</h3>
-<ul class="org-ul">
-<li><a href="posts/disability-social-force.html">Disability As a Material Confined to Particular Bodies: Social Inclusion of Proper Bodies, and the Exclusion of Improper Bodies</a>
-</li>
-</ul>
-
-<h3 id="unnumbered-12">June 05</h3>
-<ul class="org-ul">
-<li><a href="posts/bodily-rhetoric.html">What is Bodily Rhetoric?</a>
-</li>
-</ul>
-
-<h3 id="unnumbered-13">May 28</h3>
-<ul class="org-ul">
-<li><a href="posts/disability-and-nationalism.html">Disability Studies and Nationalism</a>
-</li>
-</ul>
-
-<h3 id="unnumbered-14">May 27</h3>
-<ul class="org-ul">
-<li><a href="posts/women-quad-rugby.html">Women&rsquo;s Quad Rugby Team</a>
-</li>
-</ul>
-
-<h3 id="unnumbered-15">May 21</h3>
-<ul class="org-ul">
-<li><a href="posts/disability-and-queer-theory.html">Intersections of Race &amp; Queer Theory and Disability Studies: Is There a Proper Definition of Disability?</a>
-</li>
-</ul>
-
-<h3 id="unnumbered-16">May 19</h3>
-<ul class="org-ul">
-<li><a href="posts/twilight-zone.html">Everything is in the Eye of the Beholder: Disordered Perception and The Twilight Zone</a>
-</li>
-</ul>
-
-<h3 id="unnumbered-17">May 15</h3>
-<ul class="org-ul">
-<li><a href="posts/disability-studies.html">What is Disability Studies? Musings on Linton, Clare, Quayson, and Mitchell and Snyder</a>
-</li>
-</ul>
-
-<h3 id="unnumbered-18">May 14</h3>
-<ul class="org-ul">
-<li><a href="posts/normalcy.html">Musings on Foucault, Davis, and Garland-Thomson</a>
-</li>
-</ul>
-
-<h3 id="unnumbered-19">May 7</h3>
-<ul class="org-ul">
-<li><a href="posts/platonic-bodies-vs-postmodern-bodies.html">Platonic Bodies vs. Postmodern Bodies</a>
-</li>
-</ul>
-</section>
+    {% else %}
+        {% if this_year != next_year %}
+        <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
+        </section>
+        {% endif %}
+    {% endif %}
+{% endfor %}

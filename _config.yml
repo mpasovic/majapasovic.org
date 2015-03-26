@@ -58,7 +58,7 @@ host: 127.0.0.1
 relative_permalinks: false
 
 # Outputting
-permalink: /posts/:title.html
+permalink: /:title.html
 paginate_path: /page:num
 timezone: null
 
