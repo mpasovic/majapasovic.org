@@ -72,6 +72,13 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
+    - /css
+    - /fonts
+    - /js
+    - /.gitignore
+    - /CNAME
+    - /feed.xml
+    - /robots.txt
   metadata:
     _posts:
       - name: "published"
