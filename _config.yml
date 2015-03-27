@@ -80,6 +80,7 @@ prose:
     - /feed.xml
     - /robots.txt
     - /journal.html
+    - /favicon.png
   metadata:
     _posts:
       - name: "published"
