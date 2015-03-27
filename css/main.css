@@ -206,7 +206,11 @@ hr{
 }
 
 img{
-    max-width: 90%;
+    max-width: 100%;
+}
+
+article>p+p img{
+    text-indent: -4.8rem;
 }
 
 .versal{
