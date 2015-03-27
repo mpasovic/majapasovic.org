@@ -79,6 +79,7 @@ prose:
     - /CNAME
     - /feed.xml
     - /robots.txt
+    - /journal.html
   metadata:
     _posts:
       - name: "published"
