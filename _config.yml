@@ -64,3 +64,29 @@ timezone: null
 
 quiet: false
 defaults: []
+
+prose:
+  rooturl: "_posts"
+  siteurl: "http://majapasovic.org"
+  media: "img"
+  ignore:
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+      - name: "layout"
+        field:
+          label: "Layout"
+          element: "text"
+          value: "post"
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+          value: "A awesome Headline!"
