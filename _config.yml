@@ -66,7 +66,6 @@ quiet: false
 defaults: []
 
 prose:
-  rooturl: "_posts"
   siteurl: "http://majapasovic.org"
   media: "img"
   ignore:
