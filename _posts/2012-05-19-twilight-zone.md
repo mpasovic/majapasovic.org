@@ -149,6 +149,3 @@ teachers, after all, our own state, its leaders and their laws are
 teaching us that anything deviating from conformity equals disabled and
 undesirable, and that anything that complies with the laws of conformity
 equals nothing, and nothing but able and desirable bodies.
-
-Eye of the Beholder (Twilight Zone episode referenced above) {#unnumbered-2}
-------------------------------------------------------------

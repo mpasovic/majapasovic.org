@@ -77,6 +77,3 @@ yes, because in order to have our identities acknowledged and to be
 integrated into a society that is not our own, our own
 culture—ironically so—needs to change and adapt to differences in order
 to serve the majority.
-
-The Scene from *Star Trek* (“We are the Borg! You will be assimilated. Resistance is futile!”) {#unnumbered-2}
-----------------------------------------------------------------------------------------------

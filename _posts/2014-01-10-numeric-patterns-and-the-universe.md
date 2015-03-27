@@ -107,9 +107,6 @@ count, regularly, on their ten fingers!
 
 ![raindrop.jpg](../img/raindrop.jpg)
 
-The Presence of the Number Pi (π) in the World of Nature {#unnumbered-2}
---------------------------------------------------------
-
 Going back to the number π, it is fascinating to what extent this number
 appears in the natural world. Scientists and mathematicians have shown
 that π, which, by the way, is an irrational number (since it goes on

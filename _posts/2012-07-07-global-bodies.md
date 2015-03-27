@@ -122,6 +122,3 @@ not have any disabled persons hired in their main offices in the United
 States or Europe; however, commercials made in the spirit of equality,
 tolerance and motivation reach a vast number of their viewers, resulting
 in hundreds of millions of income for *Nike* every year.
-
-The Nike commercials referenced above {#unnumbered-2}
--------------------------------------

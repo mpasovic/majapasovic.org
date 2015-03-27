@@ -99,9 +99,3 @@ body in order to secure the ordinariness of the viewer” (Garland-Thomson
     disabled actors or stand-up comedians may be using their disability
     as a means of surviving by being *sick* and *abnormal*, overcoming
     disability, or simply escaping it.
-
-Maysoon Zayid performing at the ATFP events in 2010 and 2011, Washington D.C. {#unnumbered-2}
------------------------------------------------------------------------------
-
-Maysoon Zayid performing at Rutgers University {#unnumbered-3}
-----------------------------------------------
