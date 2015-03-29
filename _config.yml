@@ -92,7 +92,7 @@ prose:
         field:
           label: "title"
           element: "text"
-          value: "the title"
+          value: "the great title"
       - name: "layout"
         field:
           label: "Layout"
