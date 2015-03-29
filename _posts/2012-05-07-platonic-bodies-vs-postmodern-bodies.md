@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Platonic Bodies vs. Postmodern Bodies"
+title: Platonic Bodies vs. Postmodern Bodies
 ---
 
 ![orpheus.jpg](../img/orpheus.jpg)
