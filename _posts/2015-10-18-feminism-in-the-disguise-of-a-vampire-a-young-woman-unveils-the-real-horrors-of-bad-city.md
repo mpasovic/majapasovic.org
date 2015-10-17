@@ -5,6 +5,7 @@ title: "Feminism in the Disguise of a Vampire: Uncovering the Real Horrors of \"
 ---
 
 
+![]({{site.baseurl}}/img/sheila%20vand02.gif)
 
 > *What’s not to like? I mean really, you couldn’t die. Plus there’s nothing sexier than a vampire. If a vampire showed up, I’d be like: “Do it: I want to live forever.”* —Any Lily Amirpour
 
