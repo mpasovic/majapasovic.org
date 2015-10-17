@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Feminism in the Disguise of a Vampire: A Young Woman Unveils the Real Horrors of \"Bad City\""
+title: "Feminism in the Disguise of a Vampire: Uncovering the Real Horrors of \"Bad City\""
 ---
 
 
@@ -25,8 +25,7 @@ While the mythical and supernatural aspect of vampirism represents one of the ma
 And finally, what adds to the overall artistry of the movie and its plot is Masuka, the cat. You may wonder why include the cat in the black-and-white vampire movie at all? What is the purpose of Masuka, which spends her everyday existence engaged in typical feline activities, such as sleeping, eating, purring, and more sleeping. Very early in the movie, we learn that Masuka has a great importance for Arash who refuses to give the cat away to the local thug and drug dealer, as a compensation for the money owed by his father. Arash, instead, chooses to give away his car, but not the cat. Then, at the very end of the movie, Arash and the vampire girl, determined to leave Bad City behind them, take Masuka with them and set off into the darkness, in search of a new and better place. Throughout the movie, we get the impression that Masuka is the guardian of Arash's life, for any time Arash is in danger, Masuka happens to be around. Masuka the cat also has a great significance in relation to the vampire girl, however. Many ancient cultures, including the Roman, Greek, Egyptian and Persian cultures, assigned mystical properties to cats. Cats enjoyed a special status among the ancient Egyptians, who regarded them as the sacred guardians of the household. It is well-known that many of the excavated Egyptian tombs also contained a mummified cat, which only testifies to the importance of cats in ancient Egyptian culture. Contrary to this, ancient Greek culture associated cats with Hecate, the eternal resident of Hades, the underworld, and the goddess of death, darkness, witchcraft, and necromancy. This association of cats with death and sorcery was then adopted in the    Middle Ages in Europe, when one of the common beliefs was that cats were demons and that the witches could assume the shape of a cat. It is also interesting that the women who were either fond of cats or held cats as their pets would be accused of witchcraft and sentenced to death in the Middle Ages. In addition, it was believed that cats had the power to revive a dead body and turn it into a vampire. In *A Girl Walks Home Alone at Night*, Masuka does not revive any corpses: instead, it protects Arash and the vampire girl against evil and bad people. Like the vampire girl, Masuka enjoys in its independence and freedom, refusing to stoop before oppressive social and cultural limitations. 
 
 ![masuka.jpg]({{site.baseurl}}/img/masuka.jpg)
-
-Closing scene in the movie, showing the Vampire Girl, Arash and Masuka leaving Bad City
+Closing scene in the movie, showing the Vampire Girl, Arash, and Masuka, setting off from Bad City
   
 *****
 
