@@ -1,6 +1,8 @@
 ---
 layout: page
-title: "Contact"
+title: Contact
+published: true
 ---
 
-You can reach me at [{{ site.email }}](mailto:{{ site.email }}).
+
+For comments or suggestions, you can reach me at [{{ site.email }}](mailto:{{ site.email }}).
