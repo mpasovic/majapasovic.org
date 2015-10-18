@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Feminism, Vampires, and Male Oppression in *A Girl Walks Home Alone at Night*"
+title: "Feminism, Vampires, and Male Oppression in \"A Girl Walks Home Alone at Night\""
 ---
 
 
