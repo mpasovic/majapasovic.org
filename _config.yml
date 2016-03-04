@@ -1,41 +1,16 @@
 # Site settings
 url: "http://majapasovic.org"
-baseurl: ""
 title: "Maja Pašović"
 description: "The Writings of Maja Pašović"
 author: "Maja Pašović"
 email: "maja@majapasovic.org"
 github: "mpasovic"
 
-# Where things are
-source: .
-destination: ./_site
-plugins: ./_plugins
-layouts: ./_layouts
-data_source: ./_data
-collections: null
-
-# Plugins
-whitelist: []
-gems:
-  - jekyll-sitemap
-  - jekyll-redirect-from
-
 # Conversion
 markdown: kramdown
-excerpt_separator: "\n\n"
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
 
 # Outputting
-permalink: /:title
-paginate_path: /page:num
+permalink: none
 
 prose:
   siteurl: "http://majapasovic.org"
