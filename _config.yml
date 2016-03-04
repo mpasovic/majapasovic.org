@@ -34,7 +34,7 @@ kramdown:
   enable_coderay: false
 
 # Outputting
-permalink: /:title.html
+permalink: /:title
 paginate_path: /page:num
 
 prose:
