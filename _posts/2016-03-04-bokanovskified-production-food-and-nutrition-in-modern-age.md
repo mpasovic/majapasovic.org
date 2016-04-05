@@ -15,7 +15,10 @@ Therefore, the inevitable questions arise: "What is the actual purpose of consum
 
 *****
 Speaking of the eating habits of modern humans in an economically viable society, I cannot help but think of the beautifully ominous description of hyper-production and consumerism in Aldous Huxley's pioneering work *Brave New World*. While the book itself warns the readers about the dangers of state capitalism and advanced capitalism, it also points to the inevitable problems with genetic and social engineering. One of the most captivating sections in the book is Huxley's description of the so-called "Fertilizing Room" inside the Central London Hatchery and Conditioning Centre, where the process of hyper-production and social predestination takes place. Namely, human subjects are treated as a disposable material that can be produced, altered, redesigned, and multiplied at any time, by means of the *Bokanovsky's Process*:
-> One egg, one embryo, one adult - normality. But a bokanovskified egg will bud, will proliferate, will divide. From eight to ninety-six buds, and every bud will grow into a perfectly formed embryo, and every embryo into a full-sized adult. Making ninety-six human beings grow where only one grew before. Progress." (*Brave New World*, pp.3-4)
+> One egg, one embryo, one adult - normality. But a bokanovskified egg will bud, 
+> will proliferate, will divide. From eight to ninety-six buds, and every bud will 
+> grow into a perfectly formed embryo, and every embryo into a full-sized adult. 
+> Making ninety-six human beings grow where only one grew before. Progress." (*Brave > New World*, pp.3-4)
 
 One has to keep in mind that Bokanovsky's Process does not refer to genetic engineering alone. Moreover, the process of multiplying human beings does not necessarily mean the duplication (or cloning) of embryos. 
 
