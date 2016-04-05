@@ -8,13 +8,12 @@ title: "Bokanovskified Production: Food and Nutrition in Modern Age"
 > *Ninety-six identical twins working ninety-six identical machines! [...] 
 > The principle of mass production at last applied to biology.* —Aldous Huxley
 
-![modified-food.jpg]({{site.baseurl}}/img/modified-food.jpg)
-
 <span class="versal h9">H</span>ow often do we pay attention to what we eat and drink today? How many times have you reconsidered buying a pile of nicely arranged, seemingly spotless and "glowing" apples and tomatoes at the local supermarket? In the age of genetically-modified food, excessive production and hyper-consumerism, horrific concentration of pollutants, and the plastification of food containers and packaging, the good old saying "You are WHAT you eat!" has become more pertinent than ever before. By now, numerous studies on the dangers of plastic bottles, canned food, and the BPA synthetic compound have been released, with a primary focus on their harmful effects on humans, such as hormonal imbalance and the development of malignant cells in the body. Not to mention the dangers of microwaves and pre-cooked food, specifically designed for the "microwave effect." A number of scientific studies conducted over the past 15 years have come out with shocking discoveries on cooking and heating food in microwaves. Even though scientists and food nutritionists are still largely divided on the potentially harmful levels of radiation emitted from the microwaves, we now have a documented evidence that microwaves turn perfectly healthy, organic food into a "dead" substance. Firstly, the rapid heating of food in the span of several minutes only causes your food to lose its natural nutritional structure, including all of the organic antioxidants, vitamins and minerals; secondly, microwaving the food in plastic containers, cellophane and/or aluminium wraps--as many people tend to do--can easily lead to a leakage of all the toxic compounds contained in the container. Not to mention that pretty much all of the pre-cooked food is injected with additives and artifical supplements, otherwise, the plasticized container of pasta with meatballs would not be able to sit on store shelves for five days or longer. Just think of how your own pasta dish, when left to sit overnight, tastes the following day. It, most certainly, does not taste as a freshly cooked pasta that takes approximately 15-20 minutes to make (and in a homemade sauce). 
+
+![modified-food.jpg]({{site.baseurl}}/img/modified-food.jpg)
 
 *****
 Therefore, the inevitable questions arise: "What is the actual purpose of consuming ready-made food?" "How much time do we REALLY save buying and heating ready-made food?" As has been well documented, a large percentage of people in economically viable countries live of pre-cooked meals, consumed either in a restaurant or their home. According to most people, the most common reason for this is the lack of time to buy and/or cook food at home, due to work-related obligations. However, does anyone ever think how much time is spent using your *smart*phone to text your friends back and forth, to play those mind-numbing games on your bus rides to and from work, or to use your phone for "liking", "posting" and "commenting" on profuse, oftentimes irrelevant Facebook posts? Or yet, how much time do you spend working out at the gym, just to go back home to your pre-cooked meal or pretend to eat healthy at an expensive restaurant.  
-![brave new world.jpg]({{site.baseurl}}/img/brave new world.jpg)
 
 *****
 Speaking of the eating habits of modern humans in an economically viable society, I cannot help but think of the beautifully ominous description of hyper-production and consumerism in Aldous Huxley's pioneering work *Brave New World*. While the book itself warns the readers about the dangers of state capitalism and advanced capitalism, it also points to the inevitable problems with genetic and social engineering. One of the most captivating sections in the book is Huxley's description of the so-called "Fertilizing Room" inside the Central London Hatchery and Conditioning Centre, where the process of hyper-production and social predestination takes place. Namely, human subjects are treated as a disposable material that can be produced, altered, redesigned, and multiplied at any time, by means of the *Bokanovsky's Process*:
@@ -25,6 +24,8 @@ Speaking of the eating habits of modern humans in an economically viable society
 > Making ninety-six human beings grow where only one grew before. Progress. (*Brave New World*, pp.3-4)
 
 One has to keep in mind that Bokanovsky's Process does not refer to genetic engineering alone. Moreover, the process of multiplying human beings does not necessarily mean the duplication (or cloning) of embryos. 
+
+![]({{site.baseurl}}/img/brave%20new%20world.jpg)
 
 
 
