@@ -24,6 +24,6 @@ Speaking of the eating habits of modern humans in an economically viable society
 > grow into a perfectly formed embryo, and every embryo into a full-sized adult. 
 > Making ninety-six human beings grow where only one grew before. Progress. (*Brave New World*, pp. 3-4)
 
-One has to keep in mind that Bokanovsky's Process does not refer to genetic engineering alone. In other words, the process of multiplying human beings does not necessarily mean the duplication (or cloning) of embryos. It also largely pertains to the multiplication of labour by means of machine production; the stifling of independent thinking, arts and beauty by imposing a belief that humanity needs and desires capitalism and its   
+One has to keep in mind that Bokanovsky's Process does not refer to genetic engineering alone. In other words, the process of multiplying human beings does not necessarily mean the duplication (or cloning) of embryos. It also largely pertains to the multiplication of labour by means of machine production; the stifling of independent thinking, arts and beauty by imposing a belief that humanity needs and desires capitalism and its products; and the division of humans according to their    
 
 ![]({{site.baseurl}}/img/brave%20new%20world.jpg)
