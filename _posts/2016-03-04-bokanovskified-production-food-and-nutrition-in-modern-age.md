@@ -29,3 +29,4 @@ One has to keep in mind that Bokanovsky's Process does not refer to genetic engi
 ![]({{site.baseurl}}/img/brave%20new%20world.jpg)
 
 *****
+If we consider modern capitalist societies in the West, but also in the East (e.g. India where crony capitalism has taken its full swing, destroying India's economy and social stability), people have indeed come to terms with accepting their inevitable social and financial status. Namely, people have been conditioned to *like* their 
