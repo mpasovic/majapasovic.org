@@ -45,7 +45,7 @@ Reflecting on the enslavement of minds by captialism and its products, Huxley po
 > No, the real problem is: 
 > How is it that [we] can't, or rather -- because, after all, 
 > [we] know quite well why [we] can't--what would it be like if [we] were free --
-> not enslaved by [our] own conditioning" (*Brave New World*, p. 78)
+> not enslaved by [our] own conditioning. (*Brave New World*, p. 78)
 
 *****
 **Works Cited:**
