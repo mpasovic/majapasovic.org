@@ -37,4 +37,4 @@ Does eating healthy imply being wealthy?
 Should our own health depend on how much money we can afford to spend on certain food? 
 If you eat organic food, does that instantaneously define your social status?
 Is organic and healthy food reserved only for the privileged?
-Have we been conditioned to settle for the food that we don't really want to eat, but *have to*, since that is the only thing we can afford? Is this really the idea of progress humanity has been striving for
+Have we been conditioned to settle for the food that we don't really want to eat, but *have to*, since that is the only thing we can afford? Is this really the idea of progress humanity has been striving for: to poison food for the masses, but at the same time, sterilize (i.e. deprive the food from toxicity) for the privileged? 
