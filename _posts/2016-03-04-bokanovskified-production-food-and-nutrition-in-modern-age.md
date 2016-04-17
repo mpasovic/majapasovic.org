@@ -41,7 +41,10 @@ If we consider modern capitalist societies in the West, but also in the East (e.
 - Is this really the idea of progress humanity has been striving for: to poison food for the masses, but at the same time, sterilize (i.e. deprive the food from toxicity) for the privileged?
 
 Reflecting on the enslavement of minds by captialism and its products, Huxley poses a very interesting question to all of humanity:
-> No, the real problem is: How is it that [we] can't, or rather -- because, after all, [we] know quite well why [we] can't--what would it be like if [we] were free -- not enslaved by [our] own conditioning" (*Brave New World*, p. 78).
+> No, the real problem is: 
+> How is it that [we] can't, or rather -- because, after all, 
+> [we] know quite well why [we] can't--what would it be like if [we] were free -- 
+> not enslaved by [our] own conditioning" (*Brave New World*, p. 78).
 
 *****
 Works Cited: 
