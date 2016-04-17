@@ -49,6 +49,6 @@ Reflecting on the enslavement of minds by captialism and its products, Huxley po
 
 *****
 Works Cited: 
-- Huxley, Aldous. *Brave New World*. London: Vintage, 2004. Print.
+Huxley, Aldous. *Brave New World*. London: Vintage, 2004. Print.
 
 
