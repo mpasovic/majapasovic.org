@@ -37,14 +37,12 @@ If we consider modern capitalist societies in the West, but also in the East (e.
 - Should our own health depend on how much money we can afford to spend on certain food? 
 - If you eat organic food, does that instantaneously define your social status?
 - Is organic and healthy food reserved only for the privileged?
-- Have we been conditioned to settle for the food that we don't really want to eat, but *have to*, since that is the only thing we can afford? Is this really the idea of progress humanity has been striving for: to poison food for the masses, but at the same time, sterilize (i.e. deprive the food from toxicity) for the privileged?
+- Have we been conditioned to settle for the food that we don't really want to eat, but *have to*, since that is the only thing we can afford? 
+- Is this really the idea of progress humanity has been striving for: to poison food for the masses, but at the same time, sterilize (i.e. deprive the food from toxicity) for the privileged?
 
 Reflecting on the enslavement of minds by captialism and its products, Huxley poses a very interesting question to all of humanity:
 > No, the real problem is: How is it that [we] can't, or rather -- because, after all, [we] know quite well why [we] can't--what would it be like if [we] were free -- not enslaved by [our] own conditioning" (*Brave New World*, p. 78).
 
 *****
-Works Cited: Huxley, Aldous. *Brave New World*. London: Vintage, 2004. Print.
-
-
-
-*****
+Works Cited: 
+- Huxley, Aldous. *Brave New World*. London: Vintage, 2004. Print.
