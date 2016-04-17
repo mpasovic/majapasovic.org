@@ -48,7 +48,7 @@ Reflecting on the enslavement of minds by captialism and its products, Huxley po
 > not enslaved by [our] own conditioning" (*Brave New World*, p. 78)
 
 *****
-Works Cited: 
+**Works Cited:**
 Huxley, Aldous. *Brave New World*. London: Vintage, 2004. Print.
 
 
