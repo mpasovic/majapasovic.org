@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Interpretation of the Universe through Numbers"
+title: Interpretation of the Universe through Numbers
+published: true
 ---
 
 > *The laws of nature are but the mathematical thoughts of God.* —Euclid
@@ -36,14 +37,14 @@ girl (another one of Max’s neighbors) who, aware of Max’s expertise in
 mathematics, enjoys in testing his intelligence by asking him to solve
 very complex algebraic assignments: things such as 322x491, or 73/22.
 Max, of course, always manages to impress the girl, but also the movie
-audience, by solving these assignments—in the span of a few seconds
-only—without the use of calculator. Max’s obsessive quest for patterns
-in π does not go as smoothly as he expected. Namely, he is being chased
+audience, by solving these tasks—in the span of a few seconds
+only—without the use of a calculator. Max’s obsessive quest for patterns
+in π does not go as smoothly as he had initially expected. Namely, he is being chased
 by two different groups of people, who wish to intercept his research
 and convince him to disclose the results. On the one hand, we have a
 group of highly influential bankers who are convinced that Max’s results
-could offer them a pattern for the stock market. This way, they would be
-able to control and manipulate the rise and the fall of stocks on a
+could provide them with a "miracle" pattern for the stock market. This way, they would be
+able to control and manipulate the rise and fall of stocks on a
 global level. On the other hand, we are presented with the members of a
 Jewish, Kabbalistic order, who believe that Max’s research is the key to
 solving patterns in the Torah and the True Name of God (216 letters
@@ -51,9 +52,9 @@ long, as we are told by one of the members of the order). While Max
 refuses to help the bankers in their goal to further generate capitalism
 and the crash of the stock market, he does become interested in helping
 out the Jewish order, mainly because he becomes very intrigued by the
-relationship between numbers and letters in the Torah. Towards the end
+relationship of numbers and letters in the Torah. Towards the end
 of the movie, Max comes to a realization that the road to God is to be
-achieved not through some pattern of 216 numbers, but through the
+achieved not through a specific pattern of 216 numbers, but through the
 conception of beauty and simplicity of our existence in the world, i.e.
 through a simultaneous acceptance of all the knowledge and lack of
 knowledge of that which resides in the terrestrial and celestial
@@ -61,8 +62,8 @@ spheres. As Max says to the Jewish rabbi in the movie: “It’s just a
 number. The number is nothing. It’s the meaning, the syntax: it’s what’s
 between the numbers. You haven’t understood.”
 
-In the ancient Greece, Pythagoras and his followers held a belief that
-the universe itself is a harmonious and ordered entity, which is to be
+In Ancient Greece, Pythagoras and his followers held a belief that
+the universe itself is a harmonious and ordered entity meant to be
 interpreted and understood through numbers and numerical patterns. The
 general belief was that literally everything, from the structure of
 humans, animals and plants, to the movement of the planets and the
@@ -70,7 +71,7 @@ emergence of various natural occurrences, can be expressed through
 numbers. Interestingly, the Pythagoreans would also use mathematical
 relations to analyze and explain musical relations and harmonics. As
 suggested by Sextus Empiricus in his *Adversus Mathematicos*, Book VII,
-known also under the title *Against the Logicians*, Pythagoras and his
+known also as *Against the Logicians*, Pythagoras and his
 followers placed great importance on the *tetraktys* (any coordinated
 set of four items) and the number 10: “…by *tetraktys* they mean a
 number which, being constituted out of the first four numbers, fits
@@ -83,8 +84,9 @@ As he writes: “…since the number 10 seems to be perfect and to embrace
 the whole nature of the numbers, they say that the things that travel
 through the heaven are ten; but since those that are visible are only
 nine, they therefore make a tenth, the ‘counter-earth’…” (Aristotle).
+
 Number ten plays a great importance in many cultural and religious
-traditions around the world. The Bible, for instance, speaks of the ten
+traditions worldwide. The Bible, for instance, speaks of the ten
 plagues of Egypt, the ten commandments given to Moses, the ten
 generations of antediluvian age, the ten trials of Abraham’s faith, and
 many other instances. In Hinduism, the number of Vishnu’s incarnations
@@ -123,14 +125,16 @@ average meandering ratio of rivers approaches is *equal to the number
 Special?)](http://www.livescience.com/34132-what-makes-pi-special.html).
 For more than 3000 years, π has puzzled numerous generations of
 mathematicians, who admired the subtle mystery of its patterns. Unlike
-most of modern sciences, which place their focus mainly on quantity,
+most modern sciences, which place their focus mainly on quantity,
 constant change and insistent progress, the mathematicians of ancient
 Greece saw mathematics and all other exact sciences in a metaphysical
 way. For Pythagoras and Euclid, for instance, mathematics was a means to
 understanding the microcosmos of soul and intellect, but it also served
 as a method to explain the position of humans in relation to God and His
 creations; in other words, it paved the way for the attainment of sacred
-knowledge. One of the major mistakes of modern science was the
+knowledge. 
+
+One of the major mistakes of modern science was the
 separation of mathematics and physics from philosophy and psychology
 (psychology, for example, was never treated as a separate discipline,
 let alone science, until the emergence of the Scientific Revolution in
@@ -154,7 +158,7 @@ and therewith a truly intellectual value, has completely disappeared—a
 case that is very similar to that of astrology” (p. 50).
 
 When we speak of mathematics as the only viable language of nature, the
-following question arises: What kind of mathematics? Are nature and its
+following questions arise: What kind of mathematics? Are nature and its
 phenomena meant to be interpreted through algebra (numbers), or through
 geometry (various geometric shapes), or perhaps through a combination of
 both? While watching the movie Pi, I couldn’t help but wonder whether
@@ -171,8 +175,8 @@ Leonardo Da Vinci used Pythagoras’ golden rectangle and the pentagram to
 illustrate the perfect human body. Likewise, Salvador Dali, in his
 painting “The Sacrament of the Last Supper”, used the golden rectangle,
 as exhibited in the dimensions of the canvas. When we connect a curve
-through the concentric golden rectangles (both the small and the large
-rectangle), we get a golden spiral, or the Golden Ratio. This same
+through the concentric golden rectangles (both the small and large
+rectangles), we get a golden spiral, or the Golden Ratio. This same
 spiral appears everywhere in nature! Pythagoras noted that the Golden
 Ratio or the mythical shape of a spiral is always present in the flower
 heads, the Milky Way and many other galaxies, the snail or nautilus
@@ -194,7 +198,7 @@ As fascinating and mind-boggling as this is, I also find it fascinating
 how proportional and harmonious objects and the living things in the
 natural world tend to be. By now, many of you have probably noticed the
 seemingly perfect and equal shapes of snowflakes, or the equal shape and
-size of petals on a flower, but also the intricately shaped parts on a
+size of flower petals, but also the intricately shaped parts on a
 pine cone and a cauliflower, or the proportional lines on a leaf. Also,
 have you ever paid attention to all of the details and different
 patterns/motifs on a bird? Take eagles, doves, or blue jays, for
@@ -205,7 +209,7 @@ they very often form a flock that resembles a triangle. Speaking of
 other animals, it is very common for all domestic cats to have a pointy
 pattern shaped like a semi-triangle, each right above their eyes (both
 patterns are equal in size) and between the sides of the upper part of
-the nose. These patterns cannot be so easily discerned in white and
+the nose. These patterns cannot be so easily discerned in purely white or
 black cats, though. These are just some of the examples that point to
 the constant presence of geometry, and mathematics in general, in our
 everyday lives and surroundings. Why do we come across all these
@@ -215,12 +219,11 @@ supposed to remind us of? In line with the teachings of Euclid and other
 Greek mathematicians, I choose to believe that all of the geometric
 shapes and numerical patterns in nature are here to remind us of the
 divine harmony and order on a macrocosmic level. More importantly,
-geometrical shapes and patterns in nature also exemplify the perfection
+diverse geometric shapes and patterns in nature also exemplify the perfection
 and unity of divine creations, as opposed to the human attempts to mimic
 that perfection and soar beyond the beauty and harmony of the natural
 world. Therefore, everything around us is not necessarily represented
-and understood through quantity and numbers, as Max Cohen from the movie
-Pi believes; rather, everything around us can be represented and
-understood through geometry. Perhaps geometry and its patterns, not
-numbers, are the true language of nature. In any case, the possibilities
-are infinite!
+and understood through quantity and numbers, as Max Cohen would believe; 
+rather, everything around us can be represented and understood through geometry. 
+Perhaps geometry and its patterns, not numbers, are the true language of nature. 
+In any case, the possibilities are infinite!
