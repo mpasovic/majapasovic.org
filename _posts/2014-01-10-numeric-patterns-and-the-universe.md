@@ -62,6 +62,7 @@ spheres. As Max says to the Jewish rabbi in the movie: “It’s just a
 number. The number is nothing. It’s the meaning, the syntax: it’s what’s
 between the numbers. You haven’t understood.”
 
+*****
 In Ancient Greece, Pythagoras and his followers held a belief that
 the universe itself is a harmonious and ordered entity meant to be
 interpreted and understood through numbers and numerical patterns. The
@@ -109,6 +110,7 @@ count, regularly, on their ten fingers!
 
 ![raindrop.jpg](../img/raindrop.jpg)
 
+*****
 Going back to the number π, it is fascinating to what extent this number
 appears in the natural world. Scientists and mathematicians have shown
 that π, which, by the way, is an irrational number (since it goes on
@@ -157,6 +159,7 @@ higher portion of the science, which gave it its traditional character
 and therewith a truly intellectual value, has completely disappeared—a
 case that is very similar to that of astrology” (p. 50).
 
+*****
 When we speak of mathematics as the only viable language of nature, the
 following questions arise: What kind of mathematics? Are nature and its
 phenomena meant to be interpreted through algebra (numbers), or through
