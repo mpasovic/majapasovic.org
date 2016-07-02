@@ -34,7 +34,6 @@ to literature—English and German literature, in particular—my other
 interests are creative writing, political theory and international
 affairs. The latter interest has led me to become involved with several
 non-governmental organizations that work towards building a sustainable
-future for the Bosnian-Herzegovinian youth. In my spare time, I write (I
-also have a blog dedicated primarily to the field of “disability
-studies”), explore open spaces and indulge myself in animal and nature
-photography.
+future for the Bosnian-Herzegovinian youth. In addition to writing, I also
+explore open spaces (mostly on my bike!) and indulge myself in landscape and 
+animal photography.
