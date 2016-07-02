@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Links"
+title: Links
+published: true
 ---
 
-* [Farasha Euker](http://outwit.ch)
 * [Luvah: Journal of the Creative Imagination](http://luvah.org/)
