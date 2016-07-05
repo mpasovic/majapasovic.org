@@ -1,9 +1,7 @@
 ---
-published: true
+published: false
 layout: post
-title: >-
-  A Lamenting Song for Fireflies, Progressive Destruction of the Environment and
-  its Consequences
+title: murf
 ---
 
 ## title
