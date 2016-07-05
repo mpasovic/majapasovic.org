@@ -3,8 +3,11 @@ published: true
 layout: post
 title: >-
   A Lamenting Song for Fireflies, Progressive Destruction of the Environment and
-  Its Consequences
+  its Consequences
 ---
+
+## title
+
 
 > *Here come real stars to fill the upper skies,
 > And here on earth come emulating flies,
