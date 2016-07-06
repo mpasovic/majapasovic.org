@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: >-
-  a-lamenting-song-for-fireflies-progressive-destruction-of-the-environment-and-its-consequences
+  A Lamenting Song for Fireflies, Progressive Destructiono of the Environment
+  and its Consequences
 ---
 
 ## title
