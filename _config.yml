@@ -5,6 +5,7 @@ description: "The Writings of Maja Pašović"
 author: "Maja Pašović"
 email: "maja@majapasovic.org"
 github: "mpasovic"
+permalink: none
 
 # Conversion
 markdown: kramdown
