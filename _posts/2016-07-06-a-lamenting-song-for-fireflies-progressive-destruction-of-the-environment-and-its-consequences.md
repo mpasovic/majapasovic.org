@@ -7,8 +7,8 @@ title: >-
 ---
 
 
-> *We loved with a love that was more than love
-> Here come real stars to fill the upper skies,
+> *We loved with a love that was more than love <
+> Here come real stars to fill the upper skies, <
 > And here on earth come emulating flies,
 > That though they never equal stars in size,
 > (And they were never really stars at heart)
