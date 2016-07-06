@@ -1,10 +1,11 @@
 ---
 published: true
 layout: post
-title: murf
+title: >-
+  a-lamenting-song-for-fireflies-progressive-destruction-of-the-environment-and-its-consequences
 ---
 
-## title 3
+## title
 
 We loved with a love that was more than love
 *Here come real stars to fill the upper skies,
