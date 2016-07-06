@@ -9,9 +9,6 @@ github: "mpasovic"
 # Conversion
 markdown: kramdown
 
-# Outputting
-permalink: none
-
 prose:
   siteurl: "http://majapasovic.org"
   media: "img"
