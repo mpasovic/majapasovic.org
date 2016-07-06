@@ -20,4 +20,6 @@ title: >-
 ![firefly.jpg]({{site.baseurl}}/img/firefly.jpg)
    A path in the forest, lit by a swarm of fireflies at night.
 
+*****
+
 *To be continued...*
