@@ -23,6 +23,6 @@ title: >-
    A path in the forest, lit by a swarm of fireflies at night.
 
 *****
-As a child, I wondered if fireflies came out at night from a mysterious land/habitat, invisible to humans. "What if there is    
+As a child, I wondered if fireflies came out at night from a mysterious land/habitat, invisible to humans. "How could I reach their habitat? Even if there was a way to reach it, would I be welcomed into their *community*?" These are just some of the questions that titillated my youthful imagination.       
 
 *To be continued...*
