@@ -35,6 +35,6 @@ Consequently, the desire for more money results in more development and heighten
 ![man_and_nature_164025.jpg]({{site.baseurl}}/img/man_and_nature_164025.jpg)
 
 *****
-The remnants of my youthful imagination prefer to believe that there is hope for the world of nature, and that someday, human species will come to realize that nature is a living organism that ought to coexist with humans. What we give to nature, nature will give back twofold. If we nurture the world of nature and its original dwellers, nature will reward us more than we could ever desire; if, however, we wreak chaos, nature will backfire at us with its most detrimental force. So long as we see the world of nature as a mere object of endless exploitation,  
+The remnants of my youthful imagination prefer to believe that there is hope for the world of nature, and that someday, human species will come to realize that nature is a living organism that ought to coexist with humans. What we give to nature, nature will give back twofold. If we nurture the world of nature and its original dwellers, nature will reward us more than we could ever desire; if, however, we wreak chaos, nature will backfire at us with its most detrimental force. So long as we see the world of nature as an object of endless exploitation, we will never learn to appreciate the simple things in life. After all, nature is all about simplicity:   
 
 *To be continued...*
