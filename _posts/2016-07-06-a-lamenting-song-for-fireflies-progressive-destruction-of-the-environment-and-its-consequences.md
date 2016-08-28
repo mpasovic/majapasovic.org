@@ -40,7 +40,7 @@ The remnants of my youthful imagination prefer to believe that there is hope for
 If we can overcome our lust for money and power, perhaps then will we be able to rediscover the true lushness of nature. As an optimist, I prefer to believe that fireflies are not doomed to be eradicated quite completely, but instead, that they have abandonded the human species, only temporarily, with the intent of coexisting with us once we learn to re-open our senses to beauty, simplicity, and the revival of natural spaces. What we need is to revolutionize the way we think about the world around us, the way we interact with our surroundings, but most importantly, transform the ways we treat our fellow humans, as well as other dwellers on the planet. If compassion, love and kindness are all we need to improve ourselves and the world around us, then why do they seem like the *holy grails* of our existence? Perhaps only when we learn to combine these three elements in our everyday existence, will we be able to grasp the mysterious language of nature and its diverse dwellers.
 
 
-Works Cited:
+**Works Cited**
 
 Fideler, David. *Restoring the Soul of the World: Our Living Bond with Nature's Intelligence.* Rochester, VT, and Toronto: Inner Traditions, 2014. Print.  
 
