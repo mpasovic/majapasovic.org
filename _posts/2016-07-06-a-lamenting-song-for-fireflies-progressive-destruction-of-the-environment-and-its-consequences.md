@@ -42,4 +42,5 @@ If we can overcome our lust for money and power, perhaps then will we be able to
 *****
 
 **Works Cited**
+
 Fideler, David. *Restoring the Soul of the World: Our Living Bond with Nature's Intelligence.* Rochester, VT, and Toronto: Inner Traditions, 2014. Print.  
