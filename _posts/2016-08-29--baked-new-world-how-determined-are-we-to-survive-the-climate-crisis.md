@@ -3,7 +3,8 @@ published: true
 layout: post
 title: '''Baked'' New World: How Determined are We to Survive the Climate Crisis?'
 ---
-## A New Post
+
+![Environments.jpg]({{site.baseurl}}/img/Environments.jpg)
 
 > *When a man says to me, “I have the intensest love of nature,” at once I know that he has none.* —Ralph Waldo Emerson
 
