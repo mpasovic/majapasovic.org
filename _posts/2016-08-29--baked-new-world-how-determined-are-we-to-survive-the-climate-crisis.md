@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: '''Baked'' New World: How Determined are We to Overcome the Climate Crisis?'
+title: '''Baked'' New World: How Determined are We to Fight the Climate Crisis?'
 ---
 
 ![Environments.jpg]({{site.baseurl}}/img/Environments.jpg)
