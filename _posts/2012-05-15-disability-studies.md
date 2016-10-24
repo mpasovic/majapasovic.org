@@ -1,6 +1,9 @@
 ---
 layout: post
-title: "What is Disability Studies? Musings on Linton, Clare, Quayson, and Mitchell and Snyder"
+title: >-
+  What is Disability Studies? Musings on Linton, Clare, Quayson, and Mitchell
+  and Snyder
+published: true
 ---
 
 <span class="versal i9">I</span>n his article “Reassigning Meaning”,
@@ -57,7 +60,7 @@ all of humanity, not only the so-called disabled people.
 
 The stigma of nasty words such as *retard*, *vegetable*, *handicapped*,
 *disabled*, and their effects on the psyche of the disabled person are
-things Eli Clare addresses in her article “Freaks and Queers.” Writing
+things Eli Clare addresses in his article “Freaks and Queers.” Writing
 from the perspective of someone born with a disability, namely with
 cerebral palsy, Clare gives an unwavering and frank description of what
 it is really like to live in a society where your own family, school
@@ -66,7 +69,7 @@ day. “Words can bruise a body” (Clare 68), and they “bruise a body more
 easily than rocks and rubber erasers” (69), however, most of us tend to
 forget this, especially if we belong to the group of non-disabled
 people. Clare’s analysis of nasty terms for the disabled people is very
-appealing, and I have to agree with her claim that the term
+appealing, and I have to agree with his claim that the term
 *handicapped* connotes something the society is ashamed of, as well as
 the society’s need to eliminate its disability of coming to terms with
 anything that is below or beyond average. Clare poses the question of
@@ -81,16 +84,16 @@ ourselves to the lifestyle of the other?** It is very peculiar how we
 are willing to adapt and completely modify our lifestyle if it brings
 material profit, but we are not willing to change our lives as soon as
 it does not bring any means of material profit. Further on, Clare
-grapples with the words *cripple* or *crip*, *queer*, *freak*. As she
-suggests, *freak* is a term she finds unacceptable and very troubling,
+grapples with the words *cripple* or *crip*, *queer*, *freak*. As he
+suggests, *freak* is a term that is unacceptable and quite troubling,
 considering the fact that a freak denotes something alien or unnatural,
 something that is to be feared, tested, or stared at. In addition, both
 *queers* and *cripples* “have been considered freaks of nature” (Clare
 96), and as such, they have been dehumanized and led into believing that
 their bodies are abnormal. By challenging the notions of LGBT identity
-and the identity of disabled people, as both a disabled and a lesbian
+and the identity of disabled people, as both a disabled and genderqueer
 author, Clare moves far beyond the standard feminist and LGBT scholars.
-She analyzes physical disabilities and sexual identities head on, and
+He analyzes physical disabilities and sexual identities head on, and
 answers the question of how silence and isolation can be overcome. Clare
 mentions the use of the pink triangle in LGBT communities, which serves
 not only to challenge the society’s close-minded views, but it also
