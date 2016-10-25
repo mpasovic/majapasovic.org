@@ -77,5 +77,5 @@ language be a primal definition of rhetorics? The first human
 communities and societies were communicating mainly through the use of
 symbols, with each community developing its own symbolism. Despite the
 fact that the majority of world’s population communicates through
-the use of spoken languages, we still interpret and analyze dreams or
+spoken mediums, we still interpret and analyze dreams or
 experiences through different symbols.
