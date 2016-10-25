@@ -45,8 +45,8 @@ most of us will not look upon such bodies as beautiful or appealing.
 Today’s impact of the media and the fashion industry teaches both
 non-disabled and disabled people to alter their bodies in order to fit
 within the *beau idéal*.
-*****
 
+*****
 I have always wondered how we came to define what is beautiful and what
 is ugly? As Mark P. O’Tool suggests in his essay *Disability and the
 Suppression of Historical Identity*, “Regardless of their race,
@@ -94,8 +94,8 @@ deficiencies and inadequacies? How have we come to the classification of
 able bodies versus disabled bodies—is that something that is determined by 
 the socitey and its values, or is it a concept that has been contained in our
 minds ever since?
-*****
 
+*****
 What I really love about “Eye of the Beholder” is that it places its
 viewers in a futuristic setting, a hundred years from now, as explained
 by the narrator of the episode. Everything has become reversed:
@@ -136,7 +136,6 @@ medical staff towards the woman in “Eye of the Beholder” is the way the
 majority of world’s societies look at anyone who does not *dress up*. 
 
 *****
-
 Today, it all comes down to conformity: if you don’t dress up for a job
 interview, it is pretty much guaranteed that you won’t get the job you
 applied for in the first place; if you don’t dress up on a first date,
