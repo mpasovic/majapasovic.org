@@ -91,7 +91,7 @@ no wonder humans are becoming so susceptible to the superficial and
 I can't help but think the following: Aren't we all helpless before our own 
 deficiencies and inadequacies? How have we come to the classification of 
 able bodies versus disabled bodies—is that something that is determined by 
-our state and its leader(s), or is it a concept that has been contained in our
+the socitey and its values, or is it a concept that has been contained in our
 minds ever since?
 
 What I really love about “Eye of the Beholder” is that it places its
