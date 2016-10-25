@@ -134,6 +134,7 @@ products of science, the same happens with everything natural contained
 inside and outside of our bodies. The way I look at the attitude of
 medical staff towards the woman in “Eye of the Beholder” is the way the
 majority of world’s societies look at anyone who does not *dress up*. 
+
 *****
 
 Today, it all comes down to conformity: if you don’t dress up for a job
