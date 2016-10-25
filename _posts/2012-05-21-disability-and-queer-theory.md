@@ -1,6 +1,9 @@
 ---
 layout: post
-title: "Intersections of Race and Queer Theory and Disability Studies: Is There a Proper Definition of Disability?"
+title: >-
+  Intersections of Race and Queer Theory and Disability Studies: Is There a
+  Proper Definition of Disability?
+published: true
 ---
 
 <span class="versal t9">T</span>hroughout history, multiple cultures
@@ -37,10 +40,7 @@ cannot stop but wonder what this concept of “normal relations of the
 sexes” is supposed to convey to the audience. First of all, how many
 sexes are there—is the number of sexes limited only to two, just because
 that is what we have been taught in schools? Secondly, what do normal
-relations stand for? In what way the positions that a man and a woman
-use during sexual intercourse are more normal than the positions used
-during the sexual intercourse of the two people of the same biological
-sex? Does the concept of “normal relations of the sexes” include anyone
+relations stand for? Does the concept of “normal relations of the sexes” include anyone
 taking part in an orgy, since the definition obviously excludes one
 group of people only, “opp. to homosexuals (OED).” Definitions of this
 kind have turned *homosexuality* into a marginalized concept,
@@ -57,9 +57,9 @@ sexual identities in which societies had instructed them has to hide or
 suppress their sexual desires and conform to the practices of the
 majority! If a parent gives a child a carrot and tries to feed it to
 him/her, and the child refuses the carrot because s/he does not like it,
-the parents will most probably stop, but if someday that same child
+the parents will most likely stop with the same practice, but if someday that same child
 wishes to share their life with a person of the same sex, in most cases
-the parent will insist that their child changes his/her sexual identity.
+the parent will insist that their child supresses his/her feelings.
 It is interesting how we have been taught that refusing the food that
 may benefit your body is not a big problem, but being with a person who
 may nourish your body, soul and mind is a completely different thing.
