@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "What is Bodily Rhetoric?"
+title: What is Bodily Rhetoric?
+published: true
 ---
 
 ![bodilyrhetoric.jpg](../img/bodilyrhetoric.jpg)
@@ -38,14 +39,14 @@ do you voice your experiences and desires through a body if the body is
 deprived of basic nourishment, and if it is in gradual deterioration. In
 a world where bodily norms are perceived differently (for example,
 whereas having a nose surgery is a norm in one country, it can be viewed
-as complete abomination in another country), the rhetoric of the body is
+as a complete abomination in another country), the rhetoric of the body is
 very important. Bodily rhetoric or the rhetoric of the body is an
 ability to voice our identity, the sense of belonging, our desires and
 fears; it is an ability to construct our inner values to the outside
 world, but most importantly, bodily rhetoric is used as a tool to
-transform minds, whole generations and societies, either in a positive
-or negative way. In today’s societies, bodily rhetoric is oftentimes
-used to deceive and manipulate the listeners and viewers, and to hide or
+transform minds, whole generations and societies, either in positive
+or negative ways. In today’s societies, bodily rhetoric is oftentimes
+used to deceive and manipulate the masses, and to hide or
 mask the true intentions of the speaker. Bodily rhetoric matters a great
 deal because not only does it define our gender, our national or
 cultural background, but it also reconstructs and re-defines who we
