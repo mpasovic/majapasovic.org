@@ -1,6 +1,9 @@
 ---
 layout: post
-title: "Everything is in the Eye of the Beholder: Disordered Perception and The Twilight Zone"
+title: >-
+  Everything is in the Eye of the Beholder: Disordered Perception and The
+  Twilight Zone
+published: true
 ---
 
 <span class="versal w9">W</span>hether we belong to the generation of
@@ -84,12 +87,12 @@ eyebrows, and reality TV shows where six-year-old girls are stripped of
 a normal childhood by their own parents and turned into *barbie dolls*,
 no wonder humans are becoming so susceptible to the superficial and
 *plastic* means of altering their bodies. Just like the woman who in
-“Eye of the Beholder” is laying in a helpless state, confined to bed, I
-am thinking are not we all helpless before our own deficiencies and
-inadequacies? How have we come to the classification of able bodies
-versus disabled bodies—is that something that is determined by our state
-and its leader(s), or is it a concept that has been contained in our
-minds ever since our birth?
+“Eye of the Beholder” is laying in a helpless state, confined to bed,
+I can't help but think the following: Aren't we all helpless before our own 
+deficiencies and inadequacies? How have we come to the classification of 
+able bodies versus disabled bodies—is that something that is determined by 
+our state and its leader(s), or is it a concept that has been contained in our
+minds ever since?
 
 What I really love about “Eye of the Beholder” is that it places its
 viewers in a sort of futuristic setting, a hundred years from now, at
