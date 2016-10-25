@@ -59,24 +59,23 @@ Ever since Professor Dolmage posed a question about the type of lexicon
 that shapes rhetorics, bodily rhetorics in particular, I have been
 thinking about whether sign language could shape and define rhetorics.
 How does sign language define a lexicon of the standard use of language?
-A great majority of humans thinks in terms of symbols and images, which
+A great majority of humans think in terms of symbols and images, which
 are then expressed through language. The languges we speak and write
-have been extensively modified throughout centuries, and most of them
+have become extensively modified in the course of centuries, and most of them
 have lost the symbolic represenation of letters that they once used to
 possess. This happened even to the current *lingua franca*, the modern
 English language, which was created through an adoption of words from
 various Indo-European languages (primarily Latin), and through the
 exclusion of a great part of the Old and Middle English lexicon where
-letters, apart from representing a particular phoneme, were written in a
-shape of specific symbols. How have we come to replace symbols with
-words, either spoken or written? Sign language is the language of
-symbols, with its own grammar, syntax, morphology, and vocabulary. It is
-probably the most symbolic language that has survived—even Chinese
+letters, apart from representing a particular phoneme, were written as specific symbols. 
+How have we come to replace symbols with words, either spoken or written? 
+Sign language is the language of symbols, with its own grammar, syntax, morphology, and vocabulary. 
+It is probably the most symbolic language that has survived—even Chinese
 language is starting to lose its symbolic representation of alphabet.
 Isn’t sign language the archetypal use of language, and why can’t sign
 language be a primal definition of rhetorics? The first human
 communities and societies were communicating mainly through the use of
 symbols, with each community developing its own symbolism. Despite the
-fact that the majority of the world’s population communicates through
-the use of languages, we still interpret and analyze dreams or
+fact that the majority of world’s population communicates through
+the use of spoken languages, we still interpret and analyze dreams or
 experiences through different symbols.
