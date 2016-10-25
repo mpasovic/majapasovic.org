@@ -47,6 +47,7 @@ kind have turned *homosexuality* into a marginalized concept,
 transforming members of different sexual identities into undesirable and
 disabled bodies.
 
+*****
 While disabled bodies and homosexuality have become more visible to the
 eyes of able bodies and heterosexuals, they have been invisible within
 their minds, because societies and cultures have taught the people to
@@ -86,6 +87,7 @@ community in which she lived could not accept her extraordinary,
 transgender body, because it did not fit within their norm of
 able-bodiedness and compulsory heteronormativity.
 
+*****
 Reflecting on Rosemarie Garland-Thomson’s analysis of the four modes of
 visual rhetoric applied to the representations of disability in
 photography, in his article “Crip Eye for the Normate Guy”, Robert
@@ -136,7 +138,7 @@ experience an impairment at some point in life is true: at least, we are
 all aware that we will grow old, and then our motor and cognitive skills
 will wane. If we are aware of this notion, then why are we afraid to
 accept differences when sooner or later we all will become a part of
-those differences? Like many other theorists, Arsch claims that
+those differences? Like many other theorists, Asch claims that
 disability is a social construct, but it is a construct that is
 affecting our everyday lives, because it strips non-disabled people of
 the skills and knowledge that disabled people have. For example, if sign
@@ -147,7 +149,7 @@ ever going to witness the era when TV shows, news and music videos will
 become adapted to hearing impaired people? Why can’t all the big
 publishing houses also adapt their books to vision impaired people?
 Considering the fact that “characteristics like ethnicity, race, sex,
-and disability are all interwoven” (Arsch 11) in one’s experience, an
+and disability are all interwoven” (Asch 11) in one’s experience, an
 important question comes to the fore, the question of authenticity. If a
 person does not come from the Native American community, do they have
 the right to write about the history and tradition of Native American
@@ -160,7 +162,8 @@ societies; they should not be succumbed to exploitation, degradation,
 violence, ridicule, lack of any power, and to everything that “cultural
 imperialism” (Iris Young) has brought upon them.
 
-In light of Arsch’s essay, I am posting a link to the official music
+*****
+In light of Asch’s essay, I am posting a link to the official music
 video for the song of the Serbian singer Željko Joksimović, “Nije ljubav
 stvar” (Love is Not a Material Object). The video proves that people
 with disabilities, in this case hearing impaired people, can and have
@@ -198,7 +201,7 @@ modern man is laziness/sloth. Even when we have the capacity to walk, we
 prefer to lie in our comfortable, warm sofa, watch TV and eat. If we
 also consider the fact that today we have more cars than humans, and
 that every fourth human being on this planet drives a car, then the
-majority of us is already disabled. In what way do cars and wheelchairs
+majority of us is already disabled. In what ways do cars and wheelchairs
 differ from each other? Isn’t a car just another type of a crutch?
 Wendell also points to how different societies look at similar
 disabilities. She mentions the examples of the North American continent
@@ -209,7 +212,7 @@ walking only 1 kilometer, even 3 kilometers a day would be considered a
 disability. While this whole stigma of disability mainly affects people
 whose bodies and identities are seen as deviant or undesirable, Wendell
 points to the fact that sooner or later, we will all grow old and be
-affected by some of the disabilities we perceive in the *Other*. There
+affected by some of the disabilities we perceive in the *other*. There
 is a saying in Bosnia-Herzegovina that human beings are always disabled:
 first we walk on four legs (as babies), then we walk on two legs, and
 finally, when the old age comes, we walk on three legs since the third
