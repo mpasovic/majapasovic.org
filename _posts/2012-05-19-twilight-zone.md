@@ -45,6 +45,7 @@ most of us will not look upon such bodies as beautiful or appealing.
 Today’s impact of the media and the fashion industry teaches both
 non-disabled and disabled people to alter their bodies in order to fit
 within the *beau idéal*.
+*****
 
 I have always wondered how we came to define what is beautiful and what
 is ugly? As Mark P. O’Tool suggests in his essay *Disability and the
@@ -93,34 +94,35 @@ deficiencies and inadequacies? How have we come to the classification of
 able bodies versus disabled bodies—is that something that is determined by 
 the socitey and its values, or is it a concept that has been contained in our
 minds ever since?
+*****
 
 What I really love about “Eye of the Beholder” is that it places its
-viewers in a sort of futuristic setting, a hundred years from now, at
-least according to the narrator of the episode. Everything is reversed:
+viewers in a futuristic setting, a hundred years from now, as explained
+by the narrator of the episode. Everything has become reversed:
 that which is now considered an ability has become a disability, and
-that which is considered a disability has become an ability. Beauty has
+that which is considered a disability is viewed as ability. Beauty has
 become ugly, and ugliness has become beautiful! The female patient is
 laughed at and rejected by her own family, friends, medical staff, and
-the majority of her society, and is looked upon as a an outcast, a freak
-who should live in complete isolation with “her own kind” (*The Twilight
+the majority of her society, and is looked upon as a an outcast, a *freak*
+doomed to complete isolation with “her own kind” (*The Twilight
 Zone*). “The state will allow you to live comfortably among those of
 your own kind” are the comforting words of the doctor to the female
 patient whose disability (in this case ugliness) is the only thing that
 marks her personality in the eyes of others. We are told that the
-hospital we see is not an ordinary hospital, that the woman we see is
+hospital we see is not an ordinary hospital, and that the woman we see is
 not an ordinary patient. So how do we know what is ordinary? The
-narrator is trying to deceive the viewers, and the reality is that this
+narrator is constantly trying to deceive the viewers, and the reality is that this
 is not a futuristic setting, but that the action is set in the present,
-it is going on right before our eyes, in a store, a restaurant, a
-schoolyard, a café, on the biggest fashion show. Sentences that still
+it is going on right before our eyes, in a store, restaurant,
+schoolyard, café, even the biggest fashion show. Sentences that still
 echo in my mind are: “Who decides that people who are different have to
 be separated from the people who are *normal*? Is ugliness [disability]
 a crime? Why shouldn’t people be allowed to be different? (*The Twilight
 Zone*)" I wonder what would happen if we were all born without faces,
 but animals still had their faces: Would humans be aware that they lack
 something in their appearance and physiognomy? Would we look upon
-animals as ugly, just because we happen to be a more dominant and
-allegedly more intelligent species? It is interesting how human
+animals as ugly, just because we happen to be a more dominant and,
+allegedly, more intelligent species? It is interesting how human
 perception of what is beautiful and ugly changes from one decade to
 another. If we look to the Hollywood movie industry of fifty or sixty
 years ago, faces not modified by make-up or plastic surgery, i.e.
@@ -131,8 +133,10 @@ our societies and cultures! Just like nature is being eradicated by the
 products of science, the same happens with everything natural contained
 inside and outside of our bodies. The way I look at the attitude of
 medical staff towards the woman in “Eye of the Beholder” is the way the
-majority of world’s societies look at anyone who does not *dress up*. It
-is all about conformity today: if you don’t dress up for a job
+majority of world’s societies look at anyone who does not *dress up*. 
+*****
+
+Today, it all comes down to conformity: if you don’t dress up for a job
 interview, it is pretty much guaranteed that you won’t get the job you
 applied for in the first place; if you don’t dress up on a first date,
 most probably you won’t even move beyond that first date; if you’re
@@ -143,12 +147,12 @@ broadcast it to the rest of the world! Just like a snail hides its body
 within its shell, humans have to live a life of pretense and hide their
 real faces unless they follow the dictates of conformity. As “Eye of the
 Beholder” says: “Conformity we must love and worship” (*The Twilight
-Zone*), but the fact is that “Beauty is in the eye of the beholder!
-(*The Twilight Zone*)" Besides, “What kind of world is this where
+Zone*), but the fact is that “Beauty is in the eye of the beholder!"
+(*The Twilight Zone*). Besides, “What kind of world is this where
 ugliness is the norm, and beauty is deviation from that? The answer is:
-It does not make any difference! (*The Twilight Zone*)" And indeed, it
-does not make any difference, because our parents, friends, coworkers,
-teachers, after all, our own state, its leaders and their laws are
+It does not make any difference!" (*The Twilight Zone*). And indeed, it
+does not make any difference, because our parents, friends, co-workers,
+teachers; after all, our own state, its leaders and their laws are
 teaching us that anything deviating from conformity equals disabled and
 undesirable, and that anything that complies with the laws of conformity
 equals nothing, and nothing but able and desirable bodies.
