@@ -109,8 +109,8 @@ satiates the humans’ need for “extravagant and indisputable otherness of
 the freak” (Garland-Thomson 65).
 
 In her article “Critical Race Theory, Feminism and Disability:
-Reflections on Social Justice and Personal Identity”, Adrienne Arsch
-mentions “the universializing of disability” (Arsch 3). As Arsch
+Reflections on Social Justice and Personal Identity”, Adrienne Asch
+mentions “the universializing of disability” (Asch 3). As Asch
 contends, disabled people should not be aligned with the minority group
 model, rather, the laws should be adapted to everyone’s impairment, for
 even similar impairments do not affect every disabled person in the same
@@ -131,7 +131,7 @@ perceives that the millions of people with impairments are fully human
 and can contribute in meaningful ways to the economy and the family,
 that world will fight against every legal or moral claim made upon it to
 change institutions, cultural practices, and institutional and physical
-structures to become readily inclusive” (Arsch 4). That everyone will
+structures to become readily inclusive” (Asch 4). That everyone will
 experience an impairment at some point in life is true: at least, we are
 all aware that we will grow old, and then our motor and cognitive skills
 will wane. If we are aware of this notion, then why are we afraid to
