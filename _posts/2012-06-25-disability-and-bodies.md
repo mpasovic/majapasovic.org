@@ -170,10 +170,7 @@ their daughters’ ability to ‘catch a man’ will depend largely on
 physical appearance, and that satisfaction in the role of wife and
 mother will hinge on learning to feed others rather than the
 self—metaphorically and literally” (Bordo 47). An argument like this
-might have been partially correct in the 1980s, but not anymore. A lot
-of mothers are to be blamed—just look at the extremely popular American
-TV shows featuring five or six-year-old girls whose mothers are like
-“beauty pimps”, teaching their daughters everything about make up, sex,
+might have been partially correct in the 1980s, but not anymore. Many mothers today are to be blamed. All you have to do is look at the extremely popular American TV shows featuring five or six-year-old girls whose mothers are like “beauty pimps”, teaching their daughters everything about make up, sex,
 and swear words before even teaching them how to read or write. On top
 of everything, the girls’ bodies are transformed into very sexualized
 bodies, shaped by not what the girls want to eat but what their mothers
