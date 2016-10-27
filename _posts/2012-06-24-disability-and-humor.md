@@ -57,10 +57,10 @@ Some of the questions that seem to be inevitable when analyzing disability thoru
 How can we study disability from the perspective of performance?
 Stand-up comedy is one type of performance! 1. Stand-up comedy performed
 by disabled comedians functions as freak show in a way: the disabled
-comedian is on display, all attention is directed towards them, just
-like in the theater, but at the same time, the audience is integrated
-into overall experience laughing about their own prejudices and
-stereotypes with the comedian. In addition, the disabled stand-up
+comedian is on display, all attention is directed at them, just
+like in the theatre, but at the same time, the audience is integrated
+into the overall experience, laughing about their own prejudices and
+stereotypes, together with the comedian. In addition, the disabled stand-up
 comedian can be viewed as “exotic”, i.e. an unknown or mysterious body,
 or *the wonder-crip* who invokes “the extraordinariness of the disabled
 body in order to secure the ordinariness of the viewer” (Garland-Thomson
@@ -77,19 +77,19 @@ body in order to secure the ordinariness of the viewer” (Garland-Thomson
     speaks of). In one of her performances, Maysoon Zayid recounts her
     experience with a police officer who pulled her over for speeding,
     and she pretended that she has Down’s syndrome to receive more
-    empathy and smaller fine, or no fine at all. *How do we distinguish
+    empathy and a smaller fine, or no fine at all. *How do we distinguish
     between less severe and more severe forms of disability? Do more
     severe forms of disability incite more empathy; do they fall more in
     line with the sentimental and the realistic? How does performance
     distinguish between more severe and less severe types of
     disability?*
 3.  Stand-up comedy subverts the eugenic gaze and the issue of
-    “feeble-mindedness”, by depicting a comedian as normal-functioning
+    “feeble-mindedness”, by depicting a comedian as a normal-functioning
     and intellectually competent individual who shares similar life
-    experiences as the majority of people in a society. The same happens
-    in the theater, where a disabled actor functions normally in a
+    experiences as the majority of people in society. The same happens
+    in the theatre, where a disabled actor functions normally in a
     rearranged setting.
-4.  In most, if not all performance including people with disabilities,
+4.  In most, if not all performances that involve people with disabilities,
     we have the “hegemonic mode of representation, i.e. a combination of
     the exotic and wondrous” (McRuer, *Crip Eye for the Normate Guy*,
     192), or as Garland-Thomson states: “something that satiates the
