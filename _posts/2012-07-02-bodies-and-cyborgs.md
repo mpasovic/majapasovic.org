@@ -44,7 +44,7 @@ means. For example, while in some countries, LGBT people and people of
 colour are legally protected from verbal or physical assaults, they are
 still denied the right to complete equality and integration. Just take
 into account the fact that people of colour still earn less money than
-the white people, even in the countries that pride themselves with
+the white people, even in the countries that pride themselves on
 freedom, equality and tolerance. Also, what about the fact that most
 countries will grant “domestic partnerships” for same-sex couples, but
 not the actual marriage? Or what about the fact that in almost every
