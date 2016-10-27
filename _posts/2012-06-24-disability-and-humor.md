@@ -30,6 +30,7 @@ herself a *disabled chic*, which could work as a supplement to a
 look as a “disabled chic” stating: “I’m trying not to be the disabled
 kid with sweatpants tucked inside her socks!”
 
+*****
 Some of the questions that seem to be inevitable when analyzing disability thorugh the lens of humor and stand-up comeday are:
 
 1.  As Simi Linton notes in “Reassigning Meaning”: “The question of who
@@ -54,6 +55,7 @@ Some of the questions that seem to be inevitable when analyzing disability thoru
     people with disabilities?
 3.  Why are special education settings generally lacking in humor?
 
+*****
 How can we study disability from the perspective of performance?
 Stand-up comedy is one type of performance! 1. Stand-up comedy performed
 by disabled comedians functions as freak show in a way: the disabled
