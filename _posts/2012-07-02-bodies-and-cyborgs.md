@@ -82,7 +82,7 @@ to distinguish between ability and disability.
 means of genetic engineering really prevent one from developing an
 “impairment” at some point in their life?* Of course not, because in order
 to prevent such things, the human race would first need to get rid of
-various modes of transportation, factories and all the technology, which
+the various modes of transportation, factories and all the technology, which
 are the main causes of physical disabilities for the modern/postmodern
 man. Davis also points to the Human Genome Project, which is defective
 in itself, primarily because we cannot claim with full certainty that
@@ -93,11 +93,13 @@ however, in the age of “dissolving boundaries, sexual orientation has
 become strangely unhinged, especially with the advent of transgender
 politics. When a male-to-female transsexual marries a person who defines
 herself as a woman, should that relationship be called lesbian? If an
-intersexual person chooses a person of either gender, or another
-intersexual, how do we define the relationship? In such cases, sexual
+intersex person chooses a person of either gender, or another
+intersexuaul, how do we define the relationship? In such cases, sexual
 orientation becomes the only option that does not define the person in
-all ways as fitting into a discrete category” (Davis 17). Science has
-advanced to such an extent that we are unable to tell if someone lives
+all ways as fitting into a discrete category” (Davis 17). 
+
+*****
+Science has advanced to such an extent that we are unable to tell if someone lives
 in a body created in a natural way, or in a body crafted by machines. A
 great example of genetic engineering and the ways science can define
 one’s sexual identity is the movie *The Skin I Live In*, one of the most
