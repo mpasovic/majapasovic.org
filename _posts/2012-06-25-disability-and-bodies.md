@@ -1,6 +1,9 @@
 ---
 layout: post
-title: "Bodies in the Claws of Postmodernism: On the Way to Liberation or Chained More than Ever?"
+title: >-
+  Bodies in the Claws of Postmodernism: On the Way to Liberation or Chained More
+  than Ever?
+published: true
 ---
 
 ![blakeman.jpg](../img/blakeman.jpg)
@@ -24,11 +27,13 @@ industrial-technological objects? Or perhaps not. What if our bodies
 really do transform from one type of butterfly to another; what if they
 become different in color, form, gender, shape, size, substance, weight,
 depending in which age our bodies proceed? But how do we position our
-bodily existence in an age we cannot even define properly? Are our
-bodies now confined to modernism or postmodernism? In their article
-“Mapping the Terrain”, Mairian Corker and Tom Shakespeare have outlined
+bodily existence in an age that we can't even define properly? Are our
+bodies now confined to modernism or postmodernism? 
+
+*****
+In their article “Mapping the Terrain”, Mairian Corker and Tom Shakespeare have outlined
 some of the prevalent opinions and theories that define modernity and
-postmodernity, but their primary focus is directed towards the ways in
+postmodernity, but their primary focus is aimed at the ways in
 which postmodernist, and along with it, post-structuralist theories can
 influence our perception and approach to disability studies. Corker and
 Shakespeare point to the fact that we now live in the “age of
@@ -48,17 +53,18 @@ where we think of machines as more valuable and sacred than humans (more
 money is invested in the production of androids, cell phones and video
 games than in the development of safe drinking water systems for
 everyone in the world), where the real cannot be differentiated from
-what is fake (everything is a copy of the copy), where books are being
+its fabrication (everything is a copy of the copy), where books are being
 replaced with virtual books that can be accessed only if you own a
 technological device, where people are infatuated with the superficial
 and trivial (more money is invested in curing baldness than curing
 cancer), and where communication has lost any meaning, simply because
 langauge became transformed into a “parroting language”, invaded by
-words such as “like”, “sort of/kind of”, “actually”, “i mean”, and so
+words such as “like”, “sort of/kind of”, “actually”, “I mean”, and so
 on—it is interesting how we have come to devalue silence and pauses in
-one another’s oral communication. Not only have we become the puppets of
-economic, political and social systems, but we have also evolved into
-clowns, and instead of trying to change the systems and preserve the
+each other's communication. 
+
+*****
+Not only have we become the puppets of economic, political and social systems, but we have also evolved into clowns, and instead of trying to change the systems and preserve the
 human values, we simply joggle between the material, the fake, and the
 superficial, choosing one or the other, or everything combined. I find
 it interesting how Corker and Shakespeare define modernism or modernity
