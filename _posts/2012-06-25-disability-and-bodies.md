@@ -136,7 +136,7 @@ as it is “necessary to lay claim to ‘queer,’ ‘gay,’ and ‘lesbian’
 (simply because these terms lay their claim on us prior to our full
 knowing)” (Butler 229), it is also necessary for the disabled people
 born with a physical or cognitive disability to lay claim on terms such
-as “crip”, “handicapped”, etc, which ties back into the discussion on
+as “crip”, “handicapped”, etc., which ties back into the discussion on
 acceptable and non-acceptable terms for disabled people, which is what
 Simi Linton tackles in “Reassigning Meaning”.
 
@@ -149,10 +149,10 @@ Simi Linton tackles in “Reassigning Meaning”.
 3.  Here is an interesting article written by Philip Patston, a
     disabled, gay Australian comedian who oftentimes combines disability
     and gender-as-drag in his acts. The article was published on the
-    site of the New Zealand’s [The Big
-    Idea](http://www.thebigidea.co.nz/news/blogs/the-creative-collide/56711-when-drag-and-disability-collide-revisited)
-    creative community.
-
+    site of the New Zealand’s creative community [The Big
+    Idea](http://www.thebigidea.co.nz/news/blogs/the-creative-collide/56711-when-drag-and-disability-collide-revisited).
+    
+*****
 I find Susan Bordo’s examination of eating disorders—anorexia and
 bulimia—particularly interesting, because she puts in a very feminist
 approach accompanied by a psychological perspective. I have always
