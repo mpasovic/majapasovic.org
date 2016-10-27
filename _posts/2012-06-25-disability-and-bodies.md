@@ -91,7 +91,10 @@ cybernetic control” (6). Thus, everything we experience is
 transitory—everything is what Baudrillard calls a mere “spectacle”, and
 like gender, “Baudrillard would view disability as a *simulation*, and
 would therefore refuse the fetishization of people with impairments”
-(6). This makes me think of the movie *The Matrix*, in particular the
+(6). 
+
+*****
+This makes me think of the movie *The Matrix*, in particular the
 scene in which Keanu Reeves is offered a choice between the blue and the
 red pill. Reeves voices a typical postmodernist statement: “I don’t have
 a faith, because I do not like the idea that I have no control over my
