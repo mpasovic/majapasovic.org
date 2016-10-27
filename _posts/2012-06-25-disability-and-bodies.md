@@ -96,16 +96,16 @@ would therefore refuse the fetishization of people with impairments”
 *****
 This makes me think of the movie *The Matrix*, in particular the
 scene in which Keanu Reeves is offered a choice between the blue and the
-red pill. Reeves voices a typical postmodernist statement: “I don’t have
+red pills. Reeves voices a typical postmodernist statement: “I don’t have
 a faith, because I do not like the idea that I have no control over my
 life.” Through this statement, Reeves confirms Plato’s idea that humans
-do not have control over their own bodies, and are therefore slaves of
+do not have control over their own bodies, and are therefore slaves to their
 bodily fears and desires. *The Matrix* reflectes Baudrillard’s ideas at
-its best, representing human bodies as *simulations* that are manouvered
+its best, representing human bodies as *simulations* manouvered
 by the people around us, as well as economic, medical, political, and
 religious institutions. The choice between the blue and the red pill can
 be seen as the choice between postmodernism and tradition, between
-denial and truth, between meaning and the lack/denial of meaning. If we
+denial and truth, between the search for meaning and its denial. If we
 are encapsulated in the global meta-narrative of the denial of truth and
 meaning, then how can we apply (if at all) typical postmodernist
 theories to our bodies, since with the denial of truth also comes the
