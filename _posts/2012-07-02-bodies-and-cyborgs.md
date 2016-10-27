@@ -1,6 +1,9 @@
 ---
 layout: post
-title: "Turning Humans into Machines: The Scary and/or Beneficial Aspects of Genetic Engineering"
+title: >-
+  Turning Humans into Machines: The Scary and/or Beneficial Aspects of Genetic
+  Engineering
+published: true
 ---
 
 ![future-bodies.jpg](../img/future-bodies.jpg)
@@ -17,7 +20,7 @@ Backwards* 13). In the last few decades, disability rights activists
 have fought to include disability as a part of multiculturalism; and
 they did it rightfully so. Even though it is a fairly new discipline,
 which—as Davis indicates, did not come into prominence before the
-1980s—disability studies re-examines and challenges the ways we classify
+1980s—disability studies, re-examines and challenges the ways we classify
 our identities, and position our bodies in relation to gender, race,
 sexual orientation, and physical and social performance. As Davis notes,
 “Disability, as the most recent identity group on the block, offers us
