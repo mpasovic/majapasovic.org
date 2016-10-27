@@ -79,8 +79,8 @@ to distinguish between ability and disability.
 *****
 *Why do we have a need to recreate bodies and change its original
 (natural) functions? What are we afraid of? Can forming a body through a
-means of genetic engineering really prevent one from developing a
-“defect” at some point in their life?* Of course not, because in order
+means of genetic engineering really prevent one from developing an
+“impairment” at some point in their life?* Of course not, because in order
 to prevent such things, the human race would first need to get rid of
 various modes of transportation, factories and all the technology, which
 are the main causes of physical disabilities for the modern/postmodern
