@@ -4,9 +4,9 @@ title: 'Disability as a Tool for Entertainment: Disability and Stand-Up Comedy'
 published: true
 ---
 
-<span class="versal l9">L</span>aughter and humor are almost never attributed to people with disabilities. There is a misguided notion that people with disabilities are unable/refuse to use humor, because of their condition. However, with the outbreak of stand-up comedy, this view has now gradually shifted to  disabled stand-up comedians, Maysoon Zayid in
-particular, I reflected on the benefits of humor for our bodies and
-minds, and the ways disability can be used as a tool for performance.
+<span class="versal l9">L</span>aughter and humor are almost never attributed to people with disabilities. There is a misguided notion that people with disabilities are unable/refuse to use humor, because of their condition. However, with the outbreak of stand-up comedy, this view has now gradually shifted, especially because a number of disabled stand-up comedians (take Maysoon Zayid, for example)
+have reflected on the benefits of humor for the person's body and
+mind, and the ways disability can be used as a tool for performance.
 Through the example of Zayid, an American-Palestinian stand-up comedian,
 I analyzed how she depicts and transforms her physical disability
 (cerebral palsy), and her ethnic and religious identity into something
