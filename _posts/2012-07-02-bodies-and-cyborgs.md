@@ -34,8 +34,10 @@ prinicple of getting rid of the “feeble-minded”, people with physical or
 cognitive disabilities, homosexuals, people of colour, and the
 proletariat—and all of these were looked upon as a type of
 disability—then *disability* has been a part of racial, sexual, and
-social identities longer than we actually think. Unfortunately, not much
-has changed in this respect. To this day, many nations, including some
+social identities longer than we had thought.
+
+*****
+Unfortunately, not much has changed in this respect. To this day, many nations, including some
 Western or westernized nations, are ostracizing people of colour and the
 LGBT community through passive, but very effective and harmless-looking
 means. For example, while in some countries, LGBT people and people of
