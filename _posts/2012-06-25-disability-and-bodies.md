@@ -157,10 +157,10 @@ I find Susan Bordo’s examination of eating disorders—anorexia and
 bulimia—particularly interesting, because she puts in a very feminist
 approach accompanied by a psychological perspective. I have always
 thought of anorexia and bulimia as disabilities; however, these are not
-physical disabilities per se. Anorexia and bulimia are perfect examples
+physical disabilities *per se*. Anorexia and bulimia are perfect examples
 of how patriarchal and capitalist societies create ideals of beauty and
 perfection. But are these societies the only ones that are to be blamed
-for this? Is one of the illnesses of the modern age, predominant among
+for this? Is one of the illnesses of modern age, predominant among
 women, really imposed by the patriarchy? Bordo refers to Susie Orbach’s
 argument that mothers whose daughters suffer from eating disorders are
 not to blame, “for they too are children of their culture, deeply
