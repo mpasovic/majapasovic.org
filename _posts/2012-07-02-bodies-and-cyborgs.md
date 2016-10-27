@@ -50,9 +50,9 @@ countries will grant “domestic partnerships” for same-sex couples, but
 not the actual marriage? Or what about the fact that in almost every
 country women earn less money than men? Davis points to the fact that we
 do not live either in modernism or postmodernism, but that we are
-trapped in an age he calls *dismodernism*. We are trapped in an age
+trapped in an age he calls *dismodernism*. We are trapped in the age
 where the human need to destroy and suppress any possibility for the
-development of a defect is bigger more than it ever was. What really
+development of a defect is greater than before. What really
 stood out to me in this article is Davis’ identification of eugenics
 with genetics: “We now openly repudiate eugenics, mainly because of the
 Nazis’ use of *negative eugenics*, that is, the direct elimination of
@@ -76,6 +76,7 @@ blood pressure, or certain illnesses. Having this in mind completely
 changes the way human bodies are created, and the ways we are starting
 to distinguish between ability and disability.
 
+*****
 *Why do we have a need to recreate bodies and change its original
 (natural) functions? What are we afraid of? Can forming a body through a
 means of genetic engineering really prevent one from developing a
