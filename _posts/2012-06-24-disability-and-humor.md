@@ -8,14 +8,14 @@ published: true
 have reflected on the benefits of humor for the person's body and
 mind, and the ways disability can be used as a tool for performance.
 In particular, through the example of Zayid, an American-Palestinian stand-up comedian,
-I analyzed how she depicts and transforms her physical disability
+it is clear that she depicts and transforms her physical disability
 (cerebral palsy), and her ethnic and religious identity into something
 that should not necessarily be ridiculed, but looked upon as a means
-that creates a sense of community between the viewer and the viewed, for
-instead of laughing at her, the audience *laughs with her*. Maysoon
+to create the sense of community between the viewer and the viewed, for
+instead of laughing AT her, the audience *laughs WITH her*. Maysoon
 Zayid proves that disability does not have to be *crippling*, as most
-members of the able-bodied community would think. On the contrary,
-Zayid’s case is a proof that disabled people also have all the silly
+members of able-bodied community would think. On the contrary,
+Zayid’s case is a proof that people with disabilities also have all the silly
 requests and big dreams as non-disabled people, and that they also know
 how to enjoy life. Stand-up comedy performed by disabled comedians
 breaks the stereotypes about disabled people as helpless, frustrated,
@@ -30,8 +30,7 @@ herself a *disabled chic*, which could work as a supplement to a
 look as a “disabled chic” stating: “I’m trying not to be the disabled
 kid with sweatpants tucked inside her socks!”
 
-Some of the questions I posed during my presentation, on which I am
-still trying to find proper answers, are:
+Some of the questions that seem to be inevitable when analyzing disability thorugh the lens of humor and stand-up comeday are:
 
 1.  As Simi Linton notes in “Reassigning Meaning”: “The question of who
     qualifies as disabled is as answerable or as confounding as
@@ -43,17 +42,17 @@ still trying to find proper answers, are:
     emphasizes the fact that she is disabled (because of her medical
     condition, and because the doctor who delivered her was supposedly
     drunk), but she also defines her disability through her ethnic and
-    religious identity. This makes me wonder *whether disability is
+    religious identity. This makes me wonder whether disability is
     defined through language, rather than biological or social
     determiners? Does language have enough capacity to assign impairment
-    or disability without relying on medical and social norms? Would we
+    and/or disability without relying on purely medical and social norms? Would we
     laugh at these jokes if they were told by an able-bodied person who
     is not a Muslim or Palestinian? What would happen if Zayid didn’t
-    tell the audience about her disability?*
-2.  *Is it still a disability when we laugh at it? Does Stand-up comedy
+    tell the audience about her disability?
+2.  **Is it still a disability when we laugh at it?** Does stand-up comedy
     performed by disabled comedians move us closer or farther apart from
-    people with disabilities?*
-3.  *Why do special education settings lack humor?*
+    people with disabilities?
+3.  Why are special education settings generally lacking in humor?
 
 How can we study disability from the perspective of performance?
 Stand-up comedy is one type of performance! 1. Stand-up comedy performed
