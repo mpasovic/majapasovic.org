@@ -47,19 +47,19 @@ cyborg, since technology, wars, and capitalism have come to rule and
 control the way we think, see, and construct images of the world around
 us. We are led into believing that breaking boundaries between humans and
 animals, or that creating more technological products will benefit our
-minds and bodies. We think that we now live in an age of progress, and
+minds and bodies. We think that we now live in the age of progress, and
 that brighter and more advanced future is awaiting us. We think that the
 way we live now is better than the way humans used to live a hundred,
 two hundred, or a thousand years ago. The simple truth is that instead
 of progressing towards a brighter and happier future, we are progressing
-in one way only: destruction.
+in one direction only: to destruction.
 
 When I say destruction, I mean destruction of nature, the planet we
 inhabit, of all the living species on the planet, but most importantly,
 the destruction of human productivity and intelligence. We have become
 dependent on capitalism and technology to such an extent that the
-products we create are turned into subjects, which makes us, humans,
-into non-thinking and non-acting objects. How many of us would be able
+products we create are turned into *subjects*, which makes us, humans,
+into non-thinking and non-acting *objects*. How many of us would be able
 to completely renounce their cellphones, computers, or cars? Not many, I
 am sure. If all the technology miraculously died tomorrow, the world
 would experience a total collapse, and the majority of us would not even
@@ -68,22 +68,23 @@ to realize as much is the fact that if it was not for the technology
 humans created, and the capitalist system we brought upon ourselves, we
 would not even need to look for the ways of improving our bodies. Just
 think of it: what good has technology brought upon human race, except
-for more diseases, physical and mental injuries, toxic food, water, air,
-and hazardous and radioactive environments? The main reason for the
+for more diseases, physical and mental injuries, toxic food, water and air,
+as well as hazardous and radioactive environments? The main reason for the
 growing number of people with cancer is the toxic waste and chemicals we
-are constantly dumping into the air and water. But the saddest thing of
+are constantly dumping into the air and water. But the most ironic things of
 all is that regardless of how destructive and lethal technology can be,
 we still need it to survive. If all the machines we produced suddenly
 stopped working, how would we get supplies of purified water, how would
 we treat the diseases we have already developed, how would we produce
 tools, clothes, furniture, how would we travel between different cities,
 countries, and continents, how would we have access to knowledge, and
-the world events when everything now is practically run by computers?
+all the global events when everything is now practically run by computers?
 
 ![machines-humans.png](../img/machines-humans.png)
 
 Humans or Machines: Who is going to outlive the other?
 
+*****
 If it was not for the machines, if we suddenly decided to put an end to
 all the machines, not only would our access to information and knowledge
 become undermined, but our ability to act, move, and interact through
