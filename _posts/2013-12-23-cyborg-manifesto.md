@@ -54,7 +54,7 @@ two hundred, or a thousand years ago. The simple truth is that instead
 of progressing towards a brighter and happier future, we are progressing
 in one direction only: to destruction.
 
-When I say destruction, I mean destruction of nature, the planet we
+When I say destruction, I mean the destruction of nature, the planet we
 inhabit, of all the living species on the planet, but most importantly,
 the destruction of human productivity and intelligence. We have become
 dependent on capitalism and technology to such an extent that the
