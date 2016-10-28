@@ -22,7 +22,7 @@ largely recognized, which is why the attempt to reduce a given body to
 one of these terms carries the pejorative label of *racist* or *sexist*
 (Siebers, *Disability Theory: Corporealities Discourses of Disability*,
 80). When it comes to defining a body through ability/disability, that
-is a completely different story. If a person is in a wheelchair, or if
+is a completely different story. If a person is in wheelchair, or if
 they are deaf, then their body is defined by nothing else but their
 inability to move or hear. As a result,” disability does not yet have
 the advantage of a political interpretation because the ideology of
