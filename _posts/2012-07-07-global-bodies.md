@@ -117,10 +117,10 @@ body is capable of. Unfortunately, in the world outside the commercials,
 the Nike company operates in a completely different way, by
 exploiting female workers, children, and people with disabilities to craft
 shoes and other clothing items. On top of that, these workers
-are people from Third World countries, working in sweat shops in China,
+are usually people from Third World countries, working in sweat shops in China,
 Vietnam, or Indonesia and getting less than a dollar a day for the
 incredible amount of work. The Nike company, just like Wal-Mart, does
 not have any disabled persons hired in their main offices in the United
 States or Europe; however, commercials made in the spirit of equality,
 tolerance and motivation reach a vast number of their viewers, resulting
-in hundreds of millions of income for *Nike* every year.
+in hundreds of millions of income for *Nike* each year.
