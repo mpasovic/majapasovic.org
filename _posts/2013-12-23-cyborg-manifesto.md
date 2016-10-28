@@ -104,11 +104,11 @@ Governmental systems, but even more than that, big corporations are
 running our lives, making us believe that access to unlimited amount of
 irrelevant information, such as fashion, sports events, new make-up
 products, the opening or closing of a shopping center, the lives of rich
-and popular people, is exactly what we need. Why would we care about, or
+and famous people, is exactly what we need. Why would we care about, or
 even try to fix problems in our lives and our own environment, when we
 are constantly distracted by the news of how other people dress, where
-they live, what their lives really look like, and so on. Many of us
-think that by not smoking, not using a car or littering, we are
+they live, what their lives really look like, and so on? Many of us
+think that by not smoking, not using a car, or not littering, we are
 protecting the natural environment, but how many of us would actually
 organize a campaign to clean the town or our neighborhood from all the
 garbage? Not many, I am sure. What happens in the end is that a very few
@@ -117,6 +117,8 @@ environments that are more livable for the living beings. These few
 individuals become the silent and unacknowledged saviours of their own
 communities, but also the world itself.
 
+
+*****
 The need to despair for a lost (or stolen) technological gadget does not
 come as such a rarity or oddity any longer. Namely, the need to wail
 after a broken or lost piece of machine is becoming increasingly
