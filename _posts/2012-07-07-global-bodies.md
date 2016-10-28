@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Private Bodies vs. Global Bodies"
+title: Private Bodies vs. Global Bodies
+published: true
 ---
 
 > *You’re not disabled by the disabilities you have, you are able by the
@@ -14,11 +15,11 @@ how Siebers juxtaposes identities defined through race or gender, and
 identities defined through a disability. As his definition clearly
 denotes, “It is true that some individual bodies are black, female, or
 both, but the social meaning of these words does not account for
-every­thing that these bodies are. Rather, these words denote large
-social cate­gories having an interpretation, history, and politics well
-beyond the par­ticularities of one human body. This fact is, of course,
+everything that these bodies are. Rather, these words denote large
+social categories having an interpretation, history, and politics well
+beyond the particularities of one human body. This fact is, of course,
 largely recognized, which is why the attempt to reduce a given body to
-one of these terms car­ries the pejorative label of *racist* or *sexist*
+one of these terms carries the pejorative label of *racist* or *sexist*
 (Siebers, *Disability Theory: Corporealities Discourses of Disability*,
 80). When it comes to defining a body through ability/disability, that
 is a completely different story. If a person is in a wheelchair, or if
