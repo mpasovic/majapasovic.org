@@ -93,14 +93,14 @@ nurturing, moving, or improving our bodies depends on our ability to
 afford and use the products of these corporations. We are now trapped in
 the age when our bodies have turned into what Grace Chang calls
 “disposable domestics” (referenced in McRuer, 203). I really like how
-McRuer highlights the fact that the financial coprorations have
+McRuer highlights the fact that financial coprorations have
 contributed to creating a predominantly female, migrnat workforce, which
 can be seen in the cases of many big corporations, such as McDonald’s,
 Wal-Mart, Benetton, Adidas, Nike, and so on. McRuer gives an example of
 Wal-Mart, which oftentimes uses people with disabilities in their
 commercials, but in reality they do not want to hire anyone who does not
 fit within their image of an able-bodied person. This made me think of
-Nike, and the ways they are promoting their products in commercials.
+Nike, and the ways they promote their products in commercials.
 Just like in Wal-Mart’s commercials, it is not uncommon to see people
 with disabilities in the commercials for the Nike company. Nike, no
 doubt, has very inspiring commercials with strong messages of
@@ -114,9 +114,9 @@ that—I just want to be me!” What we can discern from these messages is
 that they are directed at the human body and its possibilities, the
 strength of mind, and the ability to win stereotypes over what one’s
 body is capable of. Unfortunately, in the world outside the commercials,
-the Nike company operates in a completely different manner, by
-exploiting female workers, children, and disabled people for crafting
-the shoes and other clothing items. And on top of that, these workers
+the Nike company operates in a completely different way, by
+exploiting female workers, children, and people with disabilities to craft
+shoes and other clothing items. On top of that, these workers
 are people from Third World countries, working in sweat shops in China,
 Vietnam, or Indonesia and getting less than a dollar a day for the
 incredible amount of work. The Nike company, just like Wal-Mart, does
