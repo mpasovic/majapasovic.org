@@ -22,7 +22,7 @@ largely recognized, which is why the attempt to reduce a given body to
 one of these terms carries the pejorative label of *racist* or *sexist*
 (Siebers, *Disability Theory: Corporealities Discourses of Disability*,
 80). When it comes to defining a body through ability/disability, that
-is a completely different story. If a person is in wheelchair, or if
+is a completely different story. If a person is in a wheelchair, or if
 they are deaf, then their body is defined by nothing else but their
 inability to move or hear. As a result,” disability does not yet have
 the advantage of a political interpretation because the ideology of
@@ -34,7 +34,7 @@ ability that which is opposite from a disability*? Siebers opens up a
 completely new persepctive, stating that disability is defined by a
 social and built environment, rather than by medical terminology or
 society itself. When I think about it, the way houses, buildings,
-restaurants, cafés, shopping malls are designed—in general, the way
+restaurants, cafés, or shopping malls are designed—in general, the way
 society designs spaces—is very delimiting to people with disabilities.
 The society favours only one form or aspect of the human body, and due
 to that, it defines the characteristics of one’s social body. ‘This
@@ -44,11 +44,11 @@ ones, registered in the blueprints of architectural space’” (Siebers
 85).
 
 1.  If there are no private bodies, as Siebers claims, then can we
-    really be “slaves of our own bodies” (heeding Hegel’s and Socrates’
+    really be “slaves to our own bodies” (heeding Hegel’s and Socrates’
     definition), or are we simply slaves of social spaces constructed by
     human bodies?
-2.  Can public spaces be disabled. i.e can their disabling functions
-    become limited?
+2.  Can public spaces be disabling. i.e can their functions
+    become limited/limiting?
 
 ![bodies\_inspace.jpg](../img/bodies_inspace.jpg)
 
@@ -64,7 +64,8 @@ part in this act.
 Picture 2: A South-African runner Oscar Pistorius in a commercial for
 Nike.
 
-In the the final chapter of his book *Crip Theory*, Robert McRuer places
+*****
+In the final chapter of his book *Crip Theory*, Robert McRuer places
 his focus on the location of bodies in a global world, and on a world as
 inhabited by global bodies. If disability studies has gone global, the
 question is whether that “gloability” pertains solely to the United
