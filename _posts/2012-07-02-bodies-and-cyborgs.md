@@ -47,10 +47,10 @@ into account the fact that people of colour still earn less money than
 the white people, even in the countries that pride themselves on
 freedom, equality and tolerance. Also, what about the fact that most
 countries will grant “domestic partnerships” for same-sex couples, but
-not the actual marriage? Or what about the fact that in almost every
+will not legalize gay marriage? Or what about the fact that in almost every
 country women earn less money than men? Davis points to the fact that we
 do not live either in modernism or postmodernism, but that we are
-trapped in an age he calls *dismodernism*. We are trapped in the age
+trapped in an age he terms as *dismodernism*. We are trapped in the age
 where the human need to destroy and suppress any possibility for the
 development of a defect is greater than before. What really
 stood out to me in this article is Davis’ identification of eugenics
@@ -70,7 +70,7 @@ now offers limitless possibilities, such as choosing a sex for a child
 before it is even born, choosing a level of intelligence for human
 beings while they are still in the womb, developing babies in tubes,
 ending a pregnancy if a mother is told that a child will be born with a
-certain defect, but the latest accomplishment doctors and scientists are
+certain disability, but the latest accomplishment doctors and scientists are
 trying to achieve is the elimination of genes for breast cancer, high
 blood pressure, or certain illnesses. Having this in mind completely
 changes the way human bodies are created, and the ways we are starting
@@ -83,8 +83,8 @@ means of genetic engineering really prevent one from developing an
 “impairment” at some point in their life?* Of course not, because in order
 to prevent such things, the human race would first need to get rid of
 the various modes of transportation, factories and all the technology, which
-are the main causes of physical disabilities for the modern/postmodern
-man. Davis also points to the Human Genome Project, which is defective
+are the main causes of physical disabilities for the postmodern human. 
+Davis also points to the Human Genome Project, which is defective
 in itself, primarily because we cannot claim with full certainty that
 sexual orientation, intelligence, our physiognomy, or the way we speak
 are defined by a single gene. Science now claims that there is such a
@@ -94,7 +94,7 @@ become strangely unhinged, especially with the advent of transgender
 politics. When a male-to-female transsexual marries a person who defines
 herself as a woman, should that relationship be called lesbian? If an
 intersex person chooses a person of either gender, or another
-intersexuaul, how do we define the relationship? In such cases, sexual
+intersexual, how do we define the relationship? In such cases, sexual
 orientation becomes the only option that does not define the person in
 all ways as fitting into a discrete category” (Davis 17). 
 
@@ -110,13 +110,13 @@ depicts a plastic surgeon who kidnaps a twenty-something guy, performs a
 sex-change surgery on him, and creates a new skin on the body—softer and
 lighter skin— and new bone structure by using the skin and blood of a
 pig and other domestic animals. In addition, the doctor even performs a
-surgery on his vocal chords, completely changing the patient’s masculine
+surgery on the patient's vocal chords, completely changing his masculine
 voice into a feminine one. Whether or not we have reached a point where
 science can actually do things like this, I am not sure. After watching
 the movie, my mind has been filled with the following questions:
 
 1.  Why do we have to fix that which makes us human? Why do we have to
-    fix our flaws and the limitations of the body?\
+    fix our flaws and the limitations of the body?
 2.  How do you perform a gender (since, according to Butler, gender is
     all about performativity) if that gender is forced upon you, as in
     *The Skin I Live In*?
