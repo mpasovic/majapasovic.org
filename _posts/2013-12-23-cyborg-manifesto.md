@@ -125,7 +125,7 @@ indescribably disturbing and depressing state after a loss of a gadget,
 which clearly testifies to our dependence on technology. On the other
 hand, I have seen (in many people) less intense feelings of despair
 after, let’s say, the loss of a family photograph. I know that some of
-us might have more value for the phone numbers we had stored in our cell
+us might have more value for the phone numbers we had stored on our cell
 phones, but, to what extent? Is not the irretrievable moment captured at
 a given time or place more valuable than a simple piece of plastic and
 metal? Does technology really help us in any way? Does it make us feel
@@ -144,6 +144,7 @@ civilizations manage to build societies and cultures without the help of
 technology?” Perhaps the answer to that mystery lies exactly in the
 non-existence of technology!
 
+*****
 Modern human beings cannot conceive of life without technology, simply
 because of a constant exposure to it. Most kids today are raised through
 video games, cell phones, and social networking sites, such as Twitter
