@@ -55,7 +55,7 @@ of progressing towards a brighter and happier future, we are progressing
 in one direction only: to destruction.
 
 When I say destruction, I mean the destruction of nature, the planet we
-inhabit, of all the living species on the planet, but most importantly,
+inhabit; gradual eradication of the living species, but most importantly,
 the destruction of human productivity and intelligence. We have become
 dependent on capitalism and technology to such an extent that the
 products we create are turned into *subjects*, which makes us, humans,
@@ -97,10 +97,10 @@ own bodies. Just look to the majority of world’s population today,
 especially the people living in towns bordering bigger cities. Even if
 the grocery store is 10 minutes away on foot, most of us will opt for
 the car, because we cannot allow ourselves to lose 5-6 minutes of our
-“precious” time, generally spent gazing into a TV or computer screen. We
+“precious” time, generally spent gazing at the TV or computer screen. We
 do not even realize the extent to which our minds have become colonized
 by the oppressive claws of the late capitalist and technological age.
-Governmental systems, but even more than that, big corporations are
+Governmental systems, and, to a greater extent, big corporations, are
 running our lives, making us believe that access to unlimited amount of
 irrelevant information, such as fashion, sports events, new make-up
 products, the opening or closing of a shopping center, the lives of rich
@@ -113,10 +113,7 @@ protecting the natural environment, but how many of us would actually
 organize a campaign to clean the town or our neighborhood from all the
 garbage? Not many, I am sure. What happens in the end is that a very few
 individuals, or even one person only, work together to help create
-environments that are more livable for the living beings. These few
-individuals become the silent and unacknowledged saviours of their own
-communities, but also the world itself.
-
+environments that are more livable. These few individuals become the silent and unacknowledged saviours of their own communities, but also the world itself.
 
 *****
 The need to despair for a lost (or stolen) technological gadget does not
