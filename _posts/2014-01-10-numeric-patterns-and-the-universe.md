@@ -43,7 +43,7 @@ in π does not go as smoothly as he had initially expected. Namely, he is being 
 by two different groups of people, who wish to intercept his research
 and convince him to disclose the results. On the one hand, we have a
 group of highly influential bankers who are convinced that Max’s results
-could provide them with a "miracle" pattern for the stock market. This way, they would be
+could provide them with a *miracle pattern* for the stock market. This way, they would be
 able to control and manipulate the rise and fall of stocks on a
 global level. On the other hand, we are presented with the members of a
 Jewish, Kabbalistic order, who believe that Max’s research is the key to
