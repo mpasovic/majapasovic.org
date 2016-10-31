@@ -150,17 +150,17 @@ because of a constant exposure to it. Most kids today are raised through
 video games, cell phones, and social networking sites, such as Twitter
 and Facebook. Even when we try to focus on doing one thing, which does
 not involve using a technological device (such as writing a paper or a
-book, reading a book, or painting) we cannot escape from all the
+book, reading a book, or painting) we cannot escape all the
 distractions around us. The buzzing sounds of a cell phone, tablet, or
 TV, create an environment in which our brains are programmed to
 interrupt the respective task, repeatedly, and to engage in something
 entirely different. The reason why we find it puzzling to understand how
 one person only could translate the entire philosophical writings of
-Greek and Roman philosophers centuries ago (let’s take, for example,
+Greek and Roman philosophers centuries ago (take, for example,
 Thomas Taylor’s translations which date back to the eighteenth century),
 is because no modern human being is capable of translating such an
 overwhelming amount of pages (tens of thousands of pages) during their
-lifetime. This is not because humans are intellectually incapable of
+lifetime). This is not because modern humans are intellectually incapable of
 completing highly demanding tasks. On the contrary, human beings have
 the capacity to possess admirable acuity and expertise in a number of
 fields. The problem with the modern human is that he/she relies heavily
