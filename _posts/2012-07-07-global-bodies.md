@@ -4,9 +4,6 @@ title: Private Bodies vs. Global Bodies
 published: true
 ---
 
-> *You’re not disabled by the disabilities you have, you are able by the
-> abilities you have.* —Oscar Pistorius
-
 <span class="versal r9">R</span>eflecting on numerous disability studies
 theories that we have covered in the course so far, Tobin Siebers
 attempts to define bodies and bodily idenitities as positioned within
