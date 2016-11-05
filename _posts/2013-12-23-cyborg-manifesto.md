@@ -147,7 +147,7 @@ non-existence of technology itself.
 
 *****
 Modern human beings cannot conceive of life without technology, simply
-because of a constant exposure to it. Most kids today are raised through
+because of the constant exposure to it. Most kids today are raised through
 video games, cell phones, and social networking sites, such as Twitter
 and Facebook. Even when we try to focus on doing one thing, which does
 not involve using a technological device (such as writing a paper or a
@@ -161,9 +161,9 @@ Greek and Roman philosophers centuries ago (take, for example,
 Thomas Taylor’s translations which date back to the eighteenth century),
 is because no modern human being is capable of translating such an
 overwhelming amount of pages (tens of thousands of pages) during their
-lifetime). This is not because modern humans are intellectually incapable of
+lifetime. This is not because modern humans are intellectually incapable of
 completing highly demanding tasks. On the contrary, human beings have
-the capacity to possess admirable acuity and expertise in a number of
+the capacity for admirable acuity and expertise in a number of
 fields. The problem with the modern human is that he/she relies heavily
 on the capacity of machines, instead of the capacities of their own
 bodies and the intellect. So long as we continue to be subservient to
