@@ -42,7 +42,7 @@ ones, registered in the blueprints of architectural space’” (Siebers
 
 1.  If there are no private bodies, as Siebers claims, then can we
     really be “slaves to our own bodies” (heeding Hegel’s and Socrates’
-    definition), or are we simply slaves of social spaces constructed by
+    definition), or are we simply slaves to the social spaces constructed by
     human bodies?
 2.  Can public spaces be disabling. i.e can their functions
     become limited/limiting?
