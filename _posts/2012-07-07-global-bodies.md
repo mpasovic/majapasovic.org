@@ -58,7 +58,7 @@ part in this act.
 
 ![oscar\_pistorius.jpg](../img/oscar_pistorius.jpg)
 
-Picture 2: A South-African runner Oscar Pistorius in a commercial for
+Picture 2: South-African runner Oscar Pistorius in a commercial for
 Nike.
 
 *****
