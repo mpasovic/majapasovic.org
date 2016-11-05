@@ -71,7 +71,7 @@ think of it: what good has technology brought upon human race, except
 for more diseases, physical and mental injuries, toxic food, water and air,
 as well as hazardous and radioactive environments? The main reason for the
 growing number of people with cancer is the toxic waste and chemicals we
-are constantly dumping into the air and water. But the most ironic things of
+are constantly dumping into the air and water. But the most ironic thing of
 all is that regardless of how destructive and lethal technology can be,
 we still need it to survive. If all the machines we produced suddenly
 stopped working, how would we get supplies of purified water, how would
@@ -104,16 +104,17 @@ Governmental systems, and, to a greater extent, big corporations, are
 running our lives, making us believe that access to unlimited amount of
 irrelevant information, such as fashion, sports events, new make-up
 products, the opening or closing of a shopping center, the lives of rich
-and famous people, is exactly what we need. Why would we care about, or
-even try to fix problems in our lives and our own environment, when we
+and famous people, is exactly what we need. Why should we care about, or
+even try to fix the problems in our lives and our own environment, when we
 are constantly distracted by the news of how other people dress, where
 they live, what their lives really look like, and so on? Many of us
 think that by not smoking, not using a car, or not littering, we are
 protecting the natural environment, but how many of us would actually
-organize a campaign to clean the town or our neighborhood from all the
-garbage? Not many, I am sure. What happens in the end is that a very few
-individuals, or even one person only, work together to help create
-environments that are more livable. These few individuals become the silent and unacknowledged saviours of their own communities, but also the world itself.
+organize a campaign to clean the town or their neighborhood from all the
+garbage? Not many, I am sure. What happens in the end is that very few
+individuals work together to help create environments that are more livable. 
+These few individuals become are the unacknowledged saviours of our communities, 
+but also the world itself.
 
 *****
 The need to despair for a lost (or stolen) technological gadget does not
@@ -121,7 +122,7 @@ come as such a rarity or oddity any longer. Namely, the need to wail
 after a broken or lost piece of machine is becoming increasingly
 stronger than a need to mourn the loss of a friendship or memory. On a
 number of occasions, I have witnessed the people being in an
-indescribably disturbing and depressing state after a loss of a gadget,
+indescribably disturbing and depressing state after the loss of a gadget,
 which clearly testifies to our dependence on technology. On the other
 hand, I have seen (in many people) less intense feelings of despair
 after, let’s say, the loss of a family photograph. I know that some of
@@ -130,7 +131,7 @@ phones, but, to what extent? Is not the irretrievable moment captured at
 a given time or place more valuable than a simple piece of plastic and
 metal? Does technology really help us in any way? Does it make us feel
 more connected to the people around us? Does it make us interact with
-each other better? If the reasons for which we use technology are
+one another in better ways? If the reasons for which we use technology are
 limited mainly to talking to other people in a virtual environment, or
 even writing on an intangible surface, without ever getting that direct
 contact with the people and objects around us, then technology becomes
@@ -142,7 +143,7 @@ with the stigma of burdensome inferiority, due to its inability to
 explain the greatest mysteries of all: “How did the ancient
 civilizations manage to build societies and cultures without the help of
 technology?” Perhaps the answer to that mystery lies exactly in the
-non-existence of technology!
+non-existence of technology itself.
 
 *****
 Modern human beings cannot conceive of life without technology, simply
