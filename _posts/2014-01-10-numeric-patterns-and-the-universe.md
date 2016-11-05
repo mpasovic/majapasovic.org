@@ -7,7 +7,7 @@ published: true
 > *The laws of nature are but the mathematical thoughts of God.* —Euclid
 
 <span class="versal g9">G</span>eometry or algebra, shapes or numbers,
-axioms or numerical calculations? Which one is more applicable to the
+axioms or numeric calculations? Which one is more applicable to the
 possible interpretation of the universe? After all, can we really use
 numbers and/or geometry to decipher the mysterious patterns behind the
 universe? Before I proceed further, allow me to introduce the following
@@ -32,7 +32,7 @@ neighbors. The only people he has any contact with are his
 ex-professor—the fatherly figure for Max—with whom Max shares everything
 about his research; then there is Max’s neighbor, who genuinely cares
 about his well-being, partly because she is attracted to him, partly due
-to Max’s strange and paranoid behavior; and finally, we have a little
+to her concern for Max’s strange and paranoid behavior; and finally, we have a little
 girl (another one of Max’s neighbors) who, aware of Max’s expertise in
 mathematics, enjoys in testing his intelligence by asking him to solve
 very complex algebraic assignments: things such as 322x491, or 73/22.
@@ -169,7 +169,7 @@ Max Cohen’s reason for his failure in finding the patterns in π was due
 to his excessive reliance on numbers. What if the universe and our
 relationship to it is to be interpreted through geometry, not numbers?
 Max, however, does not undermine the importance of geometry, despite his
-seeming obsession with numbers and the numerical patterns in π. He even
+seeming obsession with numbers and numerical patterns in π. He even
 names his computer Euclid (author of *The Elements of Geometry*, known
 as the father of geometry and geometric algebra), and relates to the
 ever-fascinating Pythagoras’ pentagram and the golden rectangle, which
@@ -221,7 +221,7 @@ purpose that these shapes exhibit in the natural world: what are they
 supposed to remind us of? In line with the teachings of Euclid and other
 Greek mathematicians, I choose to believe that all of the geometric
 shapes and numerical patterns in nature are here to remind us of the
-divine harmony and order on a macrocosmic level. More importantly,
+harmony and order on a macrocosmic level. More importantly,
 diverse geometric shapes and patterns in nature also exemplify the perfection
 and unity of divine creations, as opposed to the human attempts to mimic
 that perfection and soar beyond the beauty and harmony of the natural
