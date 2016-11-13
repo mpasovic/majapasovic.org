@@ -20,6 +20,6 @@ The World Meteorological Organization (WMO) has warned about the quick progress 
 *****
 
 ![Hamilton_ON.jpg]({{site.baseurl}}/img/Hamilton_ON.jpg)
-*Steel mills just outside Hamilton, Canada
+     *Steel mills just outside Hamilton, Canada*
 
 *To be continued*...
