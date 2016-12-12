@@ -31,4 +31,4 @@ The World Meteorological Organization (WMO) has warned about the quick progress 
 ![Hamilton_ON.jpg]({{site.baseurl}}/img/Hamilton_ON.jpg)
      *Steel mills just outside Hamilton, Canada*
 
-*To be continued*...
+If there is a serious difference of opinions among actual scientists and state leaders, how are we supposed to take a step further? 
