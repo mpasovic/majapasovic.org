@@ -31,4 +31,4 @@ The World Meteorological Organization (WMO) has warned about the quick progress 
 ![Hamilton_ON.jpg]({{site.baseurl}}/img/Hamilton_ON.jpg)
      *Steel mills just outside Hamilton, Canada*
 
-If there is a serious difference of opinions among actual scientists and state leaders, how are we supposed to take a step further? 
+If there is a serious difference of opinions among actual scientists and state leaders, how are we supposed to take a step further, on a larger scale? It would be superfluous to list all the steps that corporations and oil lobbysts (oftentimes backed up by state governments) have undertaken for a systemic destruction of the environment.    
