@@ -41,6 +41,6 @@ If there is a serious clash of opinion on climate change among scientists and st
 > And come again in blooms revivified.
 > Its birth was heaven, eternal it its stay,
 > And with the sun and moon shall still abide
-> Beneath their day and night and heaven wide. -*John Clare*
+> Beneath their day and night and heaven wide. —*John Clare*
 
 *****
