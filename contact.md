@@ -5,4 +5,4 @@ published: true
 ---
 
 
-For comments or suggestions, you can reach me at [{{ site.email }}](mailto:{{ site.email }}).
+For comments or suggestions, you can reach me at [maja.p@cpe.ba]().
