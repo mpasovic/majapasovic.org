@@ -8,8 +8,9 @@ published: true
 
 <img src="/img/Maja%20BLOG_Photo.jpg" alt="Maja Pasovic" style="float:right;width:200px;margin:10px;padding:10px;">
 
-In a world that has come to devalue the benefits of the imagination, as well as the immaterial modes of
-existence, it has become increasingly difficult to construct a life where the flow of ideas and the desire to create is catered to the individual’s need for perfection, rather than a global demand for constant uniformity and dullness. As the executive editor of *Luvah*, it is my aim to help contribute to the spread of forsaken traditions and traditional approaches to knowledge, which have become almost extinct among the technological jungles we call homes. Perhaps my love of
+With respect to my professional experience, I have worked on projects aimed at improving the status and rights of persons with disabilities, as a Research Assistant at universities and non-profits, 
+
+Perhaps my love of
 tradition comes from the fact that I was born and raised in the city of
 Sarajevo, Bosnia-Herzegovina, where tradition—whether it is in the way
 one approaches art, music, or literature—retains high respect and value.
