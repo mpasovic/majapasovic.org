@@ -7,10 +7,9 @@ published: true
 ![]({{site.baseurl}}/img/Maja%20BLOG_Photo.jpg)
 
 
-<span class="versal s9">S</span>ince you seem interested in learning more about the author of the critical essays posted on this website, below is a brief bio.  
+<span class="versal m9">M</span>y name is Maja Pašović, and I come from the beautiful city of Sarajevo, Bosnia-Herzegovina. And if you happen to wonder where Bosnia is, it's situated in South-East Europe, or as many travel writers like to say, it's located "right in the heart of Europe." Other than being famous for the most delicious coffee in the world (which has to be eaten with a rose or walnut lokum on the side, to complement the taste of the coffee), Bosnia is the only place in the whole of Europe which actually has a rainforest! Not to mention that more than half the country is covered by magnificently beautiful mountains.
 
-My name is Maja Pašović, and I come from the beautiful city of Sarajevo, Bosnia-Herzegovina.
-And if you happen to wonder where Bosnia is, it's situated in South-East Europe, or as many travel writers like to say, it's located "right in the heart of Europe." Other than being famous for the most delicious coffee in the world   
+
 
 In a world that has come to devalue the benefits of the imagination, as well as the immaterial modes of
 existence, it has become increasingly difficult to construct a life where the flow of ideas and the desire to create is catered to the individual’s need for perfection, rather than a global demand for constant uniformity and dullness. As the executive editor of *Luvah*, it is my aim to help contribute to the spread of forsaken traditions and traditional approaches to knowledge, which have become almost extinct among the technological jungles we call homes. Perhaps my love of
