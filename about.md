@@ -5,7 +5,7 @@ published: true
 ---
 
 
-![IMG_1982_pp.jpg]({{site.baseurl}}/img/IMG_1982_pp.jpg)
+![]({{site.baseurl}}/img/Maja%20Pasovic_Photo.jpg)![Maja Pasovic_Photo.jpg]({{site.baseurl}}/img/Maja Pasovic_Photo.jpg)
 
 <span class="versal s9">S</span>ince you seem interested in learning more about the author of the critical essays posted on this website, below is a brief bio.  
 
