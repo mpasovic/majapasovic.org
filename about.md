@@ -5,6 +5,8 @@ published: true
 ---
 
 
+![IMG_1982_pp.jpg]({{site.baseurl}}/img/IMG_1982_pp.jpg)
+
 <span class="versal s9">S</span>ince you seem interested in learning more about the author of the critical essays posted on this website, below is a brief bio.  
 
 My name is Maja Pašović, and I come from the beautiful city of Sarajevo, Bosnia-Herzegovina.
