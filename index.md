@@ -6,10 +6,10 @@ published: true
 
 <span class="versal d9">T</span>hank you for visiting my personal website/blog, where I share my critical writings on a range of topics, with a primary focus on
 
-A) Critical disability studies (through the lens of acclaimed disability studies theorists) and the depiction of disability in modern-day advertising and film industry.
-B) Environmental sustainability and the intersections of humanities and environmental studies.
-C) Gender and cultural studies.
-D) Film and digital media studies.
+1. Critical disability studies (through the lens of acclaimed disability studies theorists) and the depiction of disability in modern-day advertising and film industry.
+2. Environmental sustainability and the intersections of humanities and environmental studies.
+3. Gender and cultural studies.
+4. Film and digital media studies.
 
 The writings on my blog challenge the way we experience the world in relation to our bodies, and how individuals, groups, or entire nations construct concepts of normalcy and disabled bodies. Some of the questions I address are: How do we create and perceive the body: Is it through what societies and our own or predominant cultures tell us? Can we define one’s values based on our perception of their body, or our understanding of what the *normal* body is supposed to look like? Does the self-image of our bodies define our interaction with the society? I am also largely focused on the ways we perceive the human body with respect to our physical surroundings; the impact of technology on human bodies and the environment, with respect to environmental sustainability, urban spaces and the ways urban spaces can be adapted to people with disabilities.
 
