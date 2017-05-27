@@ -4,7 +4,7 @@ title: Home
 published: true
 ---
 
-<span class="versal t9">T</span>hank you for visiting my personal website/blog, where I share my critical writings on a range of topics, with a primary focus on:
+<span class="versal t9">T</span>hank you for visiting my personal website/blog, where I share my critical writings on a range of topics, with a primary focus on the following:
 
 1. Critical disability studies (through the lens of acclaimed disability studies theorists) and the depiction of disability in modern-day advertising and film industry.
 2. Environmental sustainability and the intersections of humanities and environmental studies.
