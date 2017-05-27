@@ -4,7 +4,7 @@ title: About
 published: true
 ---
 
-![]({{site.baseurl}}/img/Maja%20BLOG_Photo.jpg)![Maja BLOG_Photo.jpg]
+![]({{site.baseurl}}/img/Maja%20BLOG_Photo.jpg)
 
 
 <span class="versal s9">S</span>ince you seem interested in learning more about the author of the critical essays posted on this website, below is a brief bio.  
