@@ -4,8 +4,7 @@ title: About
 published: true
 ---
 
-
-![]({{site.baseurl}}/img/Maja%20Pasovic_Photo.jpg)![Maja Pasovic_Photo.jpg]({{site.baseurl}}/img/Maja Pasovic_Photo.jpg)
+![Blog Image.jpg]({{site.baseurl}}/img/Blog Image.jpg)
 
 <span class="versal s9">S</span>ince you seem interested in learning more about the author of the critical essays posted on this website, below is a brief bio.  
 
