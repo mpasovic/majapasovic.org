@@ -8,7 +8,8 @@ published: true
 
 <img src="/img/Maja%20BLOG_Photo.jpg" alt="Maja Pasovic" style="float:right;width:200px;margin:10px;padding:10px;">
 
-With respect to my professional experience, I have worked on projects aimed at improving the status and rights of persons with disabilities, as a Research Assistant at universities and non-profits. My latest post was with the UNICEF Office in Bosnia, where I assisted with the development of the first Situational Analysis on the Rights of Children with Disabilities, with a primary focus on improved inclusive education practices, health care, social protection, and employment of persons with disabilities.  
+With respect to my professional background, I have two years of experience working on projects aimed at improving the status and rights of persons with disabilities, as Research Assistant at universities and non-profits. My latest post was with the UNICEF Office in Bosnia, where I assisted with the development of the first Situational Analysis on the Rights of Children with Disabilities, with a primary focus on improved inclusive education practices, health care, social protection, and employment of youth with disabilities.  
+
 
 Perhaps my love of
 tradition comes from the fact that I was born and raised in the city of
