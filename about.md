@@ -4,7 +4,7 @@ title: About
 published: true
 ---
 
-<span class="versal m9">M</span>y name is Maja Pašović, and I come from the beautiful city of Sarajevo, Bosnia-Herzegovina; living in the Washington, D.C. metro area right now. And if you happen to wonder where Bosnia is, it's situated in South-East Europe, or as many travel writers like to say, it's located "right in the heart of Europe." Other than being famous for the most delicious coffee in the world (which has to be eaten with a rose or walnut lokum on the side, to complement the taste of the coffee), Bosnia is the only place in the whole of Europe which actually has a rainforest! Not to mention that more than half the country is covered by magnificently beautiful mountains.
+<span class="versal m9">M</span>y name is Maja Pašović, and I come from the beautiful city of Sarajevo, Bosnia-Herzegovina; right now, I am living in the Washington, D.C. metro area. And if you happen to wonder where Bosnia is, it's situated in South-East Europe, or as many travel writers like to say, it's located "right in the heart of Europe." Other than being famous for the most delicious coffee in the world (which has to be eaten with a rose or walnut lokum on the side, to complement the taste of the coffee), Bosnia is the only place in the whole of Europe which actually has a rainforest! Not to mention that more than half the country is covered by magnificently beautiful mountains.
 
 <img src="/img/Maja%20BLOG_Photo.jpg" alt="Maja Pasovic" style="float:right;width:200px;margin:10px;padding:10px;">
 
